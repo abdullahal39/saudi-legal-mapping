@@ -1,0 +1,57 @@
+{
+  "version": "1.0-ALL-SYSTEMS",
+  "generatedAt": "2026-03-25T03:32:37.100Z",
+  "systems": [
+    {
+      "name": "نظام التأمينات الاجتماعية",
+      "file": "insurance-qa-database.json",
+      "count": 20
+    },
+    {
+      "name": "نظام العمل",
+      "file": "labor-qa-database.json",
+      "count": 15
+    },
+    {
+      "name": "نظام الإيجار",
+      "file": "lease-qa-database.json",
+      "count": 15
+    },
+    {
+      "name": "نظام الأحوال الشخصية",
+      "file": "personal-status-qa-database.json",
+      "count": 26
+    },
+    {
+      "name": "نظام المرور",
+      "file": "traffic-qa-database.json",
+      "count": 10
+    },
+    {
+      "name": "نظام الشركات",
+      "file": "companies-qa-database.json",
+      "count": 10
+    },
+    {
+      "name": "نظام الإقامة",
+      "file": "residency-qa-database.json",
+      "count": 8
+    },
+    {
+      "name": "نظام الجنسية",
+      "file": "nationality-qa-database.json",
+      "count": 4
+    },
+    {
+      "name": "نظام الأحوال المدنية",
+      "file": "civil-status-qa-database.json",
+      "count": 5
+    },
+    {
+      "name": "نظام حماية المستهلك",
+      "file": "consumer-qa-database.json",
+      "count": 5
+    }
+  ],
+  "totalQuestions": 98
+}
