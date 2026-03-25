@@ -7,7 +7,7 @@
 const fs = require('fs');
 
 // تحميل Mapping
-const mappingData = JSON.parse(fs.readFileSync('complete-mapping-v5-terminology-fixed.json', 'utf8'));
+const mappingData = JSON.parse(fs.readFileSync('complete-mapping-v5-FINAL-GOLD-MASTER.json', 'utf8'));
 const MAPPINGS = mappingData.mappings;
 
 console.log('╔════════════════════════════════════════════════════════════════╗');
