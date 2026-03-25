@@ -1,1631 +1,1874 @@
 {
-  "version": "5.24-PERFECT-100",
-  "timestamp": "2026-03-25T02:25:21.364Z",
-  "totalTests": 478,
-  "passed": 478,
-  "failed": 0,
-  "passRate": "100.0%",
+  "version": "5.28-TERMINOLOGY-OPTIMIZED",
+  "timestamp": "2026-03-25T02:55:26.285Z",
+  "totalTests": 2613,
+  "passed": 2496,
+  "failed": 117,
+  "passRate": "95.5%",
   "categoryStats": {
     "fiqh-major": {
-      "passed": 20,
-      "total": 20
+      "passed": 104,
+      "total": 104
     },
     "fiqh-riba": {
+      "passed": 53,
+      "total": 53
+    },
+    "fiqh-gharar": {
+      "passed": 19,
+      "total": 19
+    },
+    "fiqh-gambling": {
+      "passed": 12,
+      "total": 12
+    },
+    "fiqh-fraud": {
       "passed": 10,
       "total": 10
     },
-    "fiqh-gharar": {
-      "passed": 3,
-      "total": 3
-    },
-    "fiqh-gambling": {
-      "passed": 2,
-      "total": 2
-    },
-    "fiqh-fraud": {
-      "passed": 2,
-      "total": 2
-    },
     "fiqh-khiyar": {
-      "passed": 2,
-      "total": 2
+      "passed": 12,
+      "total": 12
     },
     "fiqh-sale": {
-      "passed": 2,
-      "total": 2
+      "passed": 13,
+      "total": 13
     },
     "fiqh-ijara": {
-      "passed": 2,
-      "total": 2
+      "passed": 12,
+      "total": 12
     },
     "fiqh-mudaraba": {
-      "passed": 2,
-      "total": 2
+      "passed": 17,
+      "total": 17
     },
     "fiqh-musharaka": {
-      "passed": 1,
-      "total": 1
+      "passed": 8,
+      "total": 8
     },
     "fiqh-salam": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     },
     "fiqh-istisna": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "fiqh-rahn": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "fiqh-kafala": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "fiqh-marriage": {
-      "passed": 7,
-      "total": 7
+      "passed": 37,
+      "total": 37
     },
     "fiqh-polygamy": {
-      "passed": 3,
-      "total": 3
+      "passed": 17,
+      "total": 17
     },
     "fiqh-talaq": {
-      "passed": 2,
-      "total": 2
+      "passed": 14,
+      "total": 14
     },
     "fiqh-khul": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "fiqh-zhihar": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "fiqh-ila": {
-      "passed": 1,
-      "total": 1
-    },
-    "fiqh-lian": {
-      "passed": 1,
-      "total": 1
-    },
-    "fiqh-rada": {
-      "passed": 1,
-      "total": 1
-    },
-    "fiqh-hadana": {
-      "passed": 1,
-      "total": 1
-    },
-    "fiqh-nafaqa": {
-      "passed": 3,
-      "total": 3
-    },
-    "fiqh-mahr": {
-      "passed": 1,
-      "total": 1
-    },
-    "fiqh-wilaya": {
-      "passed": 1,
-      "total": 1
-    },
-    "fiqh-wasiyya": {
-      "passed": 2,
-      "total": 2
-    },
-    "fiqh-idda": {
-      "passed": 1,
-      "total": 1
-    },
-    "fiqh-mahram": {
-      "passed": 1,
-      "total": 1
-    },
-    "fiqh-nushuz": {
-      "passed": 1,
-      "total": 1
-    },
-    "fiqh-inheritance": {
-      "passed": 1,
-      "total": 1
-    },
-    "fiqh-wikala": {
-      "passed": 1,
-      "total": 1
-    },
-    "fiqh-prayer": {
       "passed": 7,
       "total": 7
     },
+    "fiqh-lian": {
+      "passed": 5,
+      "total": 5
+    },
+    "fiqh-rada": {
+      "passed": 5,
+      "total": 5
+    },
+    "fiqh-hadana": {
+      "passed": 7,
+      "total": 7
+    },
+    "fiqh-nafaqa": {
+      "passed": 15,
+      "total": 15
+    },
+    "fiqh-mahr": {
+      "passed": 5,
+      "total": 5
+    },
+    "fiqh-wilaya": {
+      "passed": 7,
+      "total": 7
+    },
+    "fiqh-wasiyya": {
+      "passed": 10,
+      "total": 10
+    },
+    "fiqh-idda": {
+      "passed": 5,
+      "total": 5
+    },
+    "fiqh-mahram": {
+      "passed": 5,
+      "total": 5
+    },
+    "fiqh-nushuz": {
+      "passed": 5,
+      "total": 5
+    },
+    "fiqh-inheritance": {
+      "passed": 5,
+      "total": 5
+    },
+    "fiqh-wikala": {
+      "passed": 9,
+      "total": 9
+    },
+    "fiqh-prayer": {
+      "passed": 34,
+      "total": 34
+    },
     "fiqh-tahara": {
-      "passed": 3,
-      "total": 3
+      "passed": 15,
+      "total": 15
     },
     "fiqh-tayammum": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "fiqh-zakat": {
-      "passed": 3,
-      "total": 3
+      "passed": 17,
+      "total": 17
     },
     "fiqh-fasting": {
-      "passed": 3,
-      "total": 3
+      "passed": 14,
+      "total": 14
     },
     "fiqh-hajj": {
-      "passed": 3,
-      "total": 3
+      "passed": 15,
+      "total": 15
     },
     "labor-contract": {
-      "passed": 1,
-      "total": 1
+      "passed": 10,
+      "total": 10
     },
     "labor-rights": {
-      "passed": 1,
-      "total": 1
+      "passed": 6,
+      "total": 6
     },
     "labor-termination": {
-      "passed": 2,
-      "total": 2
+      "passed": 12,
+      "total": 14
     },
     "labor-eosb": {
-      "passed": 3,
-      "total": 3
+      "passed": 15,
+      "total": 15
     },
     "labor-hours": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 6
     },
     "labor-overtime": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 6
     },
     "labor-leave": {
-      "passed": 3,
-      "total": 3
+      "passed": 15,
+      "total": 16
     },
     "labor-maternity": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "labor-insurance": {
-      "passed": 1,
-      "total": 1
+      "passed": 9,
+      "total": 9
     },
     "labor-saudization": {
-      "passed": 2,
-      "total": 2
+      "passed": 10,
+      "total": 10
     },
     "labor-domestic": {
-      "passed": 2,
-      "total": 2
+      "passed": 17,
+      "total": 17
     },
     "labor-injury": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 6
     },
     "labor-harassment": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 6
     },
     "company-establish": {
-      "passed": 1,
-      "total": 1
+      "passed": 8,
+      "total": 9
     },
     "company-types": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "company-llc": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     },
     "company-jsc": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     },
     "company-partnership": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 7
     },
     "company-spc": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 7
     },
     "company-ga": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     },
     "company-board": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 7
     },
     "company-shareholders": {
-      "passed": 1,
-      "total": 1
+      "passed": 2,
+      "total": 4
     },
     "company-dividends": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "company-loans": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "company-bankruptcy": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "company-minority": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "company-esop": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "company-treasury": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "commercial-concealment": {
-      "passed": 2,
-      "total": 2
+      "passed": 13,
+      "total": 13
     },
     "commercial-agency": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "trademark": {
-      "passed": 3,
-      "total": 3
+      "passed": 15,
+      "total": 15
     },
     "ip": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "patent": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     },
     "copyright": {
-      "passed": 1,
-      "total": 1
+      "passed": 4,
+      "total": 4
     },
     "industrial-design": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lease-residential": {
-      "passed": 1,
-      "total": 1
+      "passed": 10,
+      "total": 11
     },
     "lease-commercial": {
-      "passed": 1,
-      "total": 1
+      "passed": 8,
+      "total": 9
     },
     "lease-duration": {
-      "passed": 1,
-      "total": 1
+      "passed": 8,
+      "total": 9
     },
     "lease-increase": {
-      "passed": 1,
-      "total": 1
+      "passed": 6,
+      "total": 7
     },
     "lease-eviction": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lease-termination": {
-      "passed": 1,
-      "total": 1
+      "passed": 8,
+      "total": 9
     },
     "lease-maintenance": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lease-sublease": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lease-assignment": {
-      "passed": 1,
-      "total": 1
+      "passed": 8,
+      "total": 9
     },
     "mortgage-individual": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "mortgage-bank": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "mortgage-fund": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "realestate-brokerage": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "realestate-appraisal": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "realestate-foreign": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "realestate-planning": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "realestate-permit": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "municipal-violations": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "municipal-demolition": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "municipal-architecture": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "judicial-jurisdiction": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     },
     "judicial-courts": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "judicial-circuits": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "judicial-appeal": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "judicial-lawsuit": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "judicial-procedure": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "evidence-proof": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "evidence-witness": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "evidence-confession": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "evidence-oath": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "evidence-circumstantial": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "judicial-expert": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "arbitration": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "arbitration-contract": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     },
     "arbitration-award": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     },
     "enforcement": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "enforcement-payment": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "enforcement-seizure": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "enforcement-compulsory": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "enforcement-expedited": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "criminal-procedure": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "criminal-arrest": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "criminal-rights": {
-      "passed": 1,
-      "total": 1
+      "passed": 2,
+      "total": 4
     },
     "criminal-investigation": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "cyber-crime": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "cyber-hacking": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "cyber-extortion": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "cyber-espionage": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "cyber-security": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "organized-crime": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "aml": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "aml-reporting": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "drug-trafficking": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "terrorism": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "financial-crime": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 7
     },
     "traffic-violations": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     },
     "traffic-fines": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "traffic-accidents": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "traffic-license": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "traffic-renewal": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "traffic-impound": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "residency": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "residency-renewal": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "residency-transfer": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "residency-exit": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "nationality": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     },
     "nationalization": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "civil-status": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "id-card": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "family-record": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "tax-income": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "tax-vat": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "tax-exemption": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "tax-return": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "zakat-money": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "zakat-trade": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "zakat-authority": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "zakat-corporate": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "tax-property": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "customs-duties": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "customs-import": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "customs-smuggling": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "customs-tariff": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "customs-freezone": {
       "passed": 1,
-      "total": 1
+      "total": 5
     },
     "commercial-register": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "consumer-rights": {
-      "passed": 1,
-      "total": 1
+      "passed": 6,
+      "total": 6
     },
     "consumer-ads": {
-      "passed": 2,
-      "total": 2
+      "passed": 10,
+      "total": 10
     },
     "consumer-defects": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "consumer-return": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "consumer-warranty": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "consumer-penalties": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "consumer-fraud": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "consumer-quality": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "standards-quality": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "standards-mandatory": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 7
     },
     "standards-saso": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "consumer-food": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "consumer-counterfeit": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "consumer-pricing": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "competition-monopoly": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "competition-pricing": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "competition-unfair": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "consumer-disclosure": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "consumer-telemarketing": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ecommerce-contract": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "pdpl": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "pdpl-privacy": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "consumer-withdrawal": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 7
     },
     "consumer-dispute": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "consumer-committee": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "consumer-fines": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "consumer-closure": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "consumer-publicity": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "consumer-precaution": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ecommerce-store": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     },
     "ecommerce-license": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ecommerce-cr": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ecommerce-sale": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 9
     },
     "ecommerce-tos": {
-      "passed": 1,
-      "total": 1
+      "passed": 2,
+      "total": 4
     },
     "ecommerce-privacy": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ecommerce-payment": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ecommerce-gateway": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ecommerce-security": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ecommerce-fraud": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ecommerce-theft": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ecommerce-rights": {
-      "passed": 1,
-      "total": 1
+      "passed": 2,
+      "total": 4
     },
     "ecommerce-return": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ecommerce-delivery": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ecommerce-cancel": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ecommerce-platforms": {
       "passed": 1,
-      "total": 1
+      "total": 5
     },
     "ecommerce-reviews": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ecommerce-fake": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ecommerce-deceptive": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ecommerce-pricing": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ecommerce-counterfeit": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ecommerce-ip": {
-      "passed": 1,
-      "total": 1
+      "passed": 4,
+      "total": 4
     },
     "ecommerce-shipping": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ecommerce-customs": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ecommerce-affiliate": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "platforms-delivery": {
       "passed": 1,
-      "total": 1
+      "total": 5
     },
     "platforms-rideshare": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "platforms-rental": {
       "passed": 1,
-      "total": 1
+      "total": 5
     },
     "platforms-parcel": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "platforms-services": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "platforms-hotels": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "platforms-flights": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "platforms-education": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "platforms-crowdfunding": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "platforms-investment": {
       "passed": 1,
-      "total": 1
+      "total": 5
     },
     "platforms-fintech": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 7
     },
     "platforms-wallet": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "platforms-trading": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "platforms-health": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "platforms-legal": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "platforms-realestate": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "platforms-jobs": {
       "passed": 1,
-      "total": 1
+      "total": 5
     },
     "platforms-food": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "platforms-classified": {
       "passed": 1,
-      "total": 1
+      "total": 5
     },
     "platforms-payment": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ai-system": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     },
     "ai-ethics": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ai-training": {
-      "passed": 1,
-      "total": 1
-    },
-    "pdpl-data": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "pdpl-consent": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "pdpl-transfer": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "pdpl-access": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "pdpl-correction": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "pdpl-deletion": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "pdpl-breach": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "pdpl-compliance": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "pdpl-dpo": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "pdpl-dpia": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ai-meetings": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ai-signature": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ai-contracts": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ai-identity": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ai-recognition": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ai-liability": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ai-content": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ai-copyright": {
-      "passed": 1,
-      "total": 1
+      "passed": 2,
+      "total": 4
     },
     "ai-bias": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ai-transparency": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "ai-oversight": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "pdpl-safety": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "arb-intl": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "arb-contract": {
-      "passed": 1,
-      "total": 1
+      "passed": 9,
+      "total": 9
     },
     "arb-arbitrators": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 7
     },
     "arb-procedure": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "arb-award": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     },
     "arb-enforcement": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     },
     "arb-annulment": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     },
     "arb-center": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     },
     "med-commercial": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "med-labor": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 9
     },
     "med-family": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "med-lease": {
-      "passed": 1,
-      "total": 1
+      "passed": 6,
+      "total": 7
     },
     "med-agreement": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "med-neutrality": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "med-confidentiality": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "settlement-friendly": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "settlement-pre": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "settlement-during": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "settlement-execution": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "settlement-criminal": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "settlement-traffic": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "settlement-contract": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "settlement-labor": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 9
     },
     "arb-banking": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "arb-lease": {
-      "passed": 1,
-      "total": 1
+      "passed": 6,
+      "total": 7
     },
     "arb-commercial": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "arb-realestate": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "arb-multiple": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 7
     },
     "arb-challenge": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 7
     },
     "arb-costs": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-file": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     },
     "lawsuit-pleading": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-fees": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-deposit": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-venue": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-jurisdiction": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-value": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-objection": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-referral": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-preparatory": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-hearing": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-postponement": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-attendance": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-default": {
       "passed": 1,
-      "total": 1
+      "total": 7
     },
     "lawsuit-objection-default": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 7
     },
     "lawsuit-evidence": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-presumptions": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-experts": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-investigation": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-interrogation": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-defense": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-attorney": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-proxy": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-revoke": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-waiver": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-notarization": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-injunction": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-ship": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-aircraft": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-assets": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-urgent": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-petition": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-admin": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "lawsuit-labor": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 9
     },
     "lawsuit-commercial": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-payment": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-instruments": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-judgments": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-bonds": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-seizure": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-property": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-movables": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-shares": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-vehicles": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-accounts": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-salary": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-insurance": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-auction": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-valuation": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-sale": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 7
     },
     "exec-distribution": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 7
     },
     "exec-priority": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-foreign": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     },
     "exec-arbitration": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-objection": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-stay": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-criminal": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-penalties": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 7
     },
     "exec-hudud": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     },
     "exec-qisas": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-diya": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-imprisonment": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-bankruptcy": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-debtor": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-relief": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-waiver": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-settlement": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-installments": {
-      "passed": 1,
-      "total": 1
-    },
-    "exec-expedited": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "exec-urgent": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-labor": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-consumer": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     },
     "scenario-payment": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 7
     },
     "scenario-divorce": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 7
     },
     "scenario-inheritance": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-lease": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     },
     "scenario-eviction": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     },
     "scenario-riba": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-hacking": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-pdpl": {
-      "passed": 1,
-      "total": 1
+      "passed": 10,
+      "total": 10
     },
     "scenario-accident": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-theft": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-tax": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-zakat": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 7
     },
     "scenario-investment": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 11
     },
     "scenario-ecommerce": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-medical": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-education": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-bribery": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-leak": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-piracy": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     },
     "scenario-fraud": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 7
     },
     "scenario-check": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-insurance": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-contractor": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 6
     },
     "scenario-supply": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-partner": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 7
     },
     "scenario-shareholder": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-import": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-environment": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-rental": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 7
     },
     "scenario-hotel": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-visa": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     },
     "scenario-broker": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-appraisal": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-lawyer": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-arbitrator": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 7
     },
     "scenario-psych": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-pharmacy": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     },
     "scenario-food": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-flight": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     },
     "scenario-disability": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-education-disability": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-charity": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-manipulation": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-sama": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-transparency": {
-      "passed": 1,
-      "total": 1
+      "passed": 5,
+      "total": 5
     },
     "scenario-ai-privacy": {
-      "passed": 1,
-      "total": 1
+      "passed": 7,
+      "total": 7
     }
   },
-  "failures": []
+  "failures": [
+    {
+      "question": "إنهاء عقد الوظيفة",
+      "expected": "نظام العمل",
+      "found": "النظام العام للعقود"
+    },
+    {
+      "question": "التسريح من الوظيفة",
+      "expected": "نظام العمل",
+      "found": "None"
+    },
+    {
+      "question": "ساعات الوظيفة والاستراحة",
+      "expected": "نظام العمل",
+      "found": "None"
+    },
+    {
+      "question": "الوظيفة الإضافي والأجر",
+      "expected": "نظام العمل",
+      "found": "الفقه الإسلامي"
+    },
+    {
+      "question": "الإجازات في نظام الوظيفة",
+      "expected": "نظام العمل",
+      "found": "None"
+    },
+    {
+      "question": "الإصابات الوظيفةية والتعويض",
+      "expected": "نظام العمل",
+      "found": "None"
+    },
+    {
+      "question": "التنمر في بيئة الوظيفة",
+      "expected": "نظام العمل",
+      "found": "نظام البيئة"
+    },
+    {
+      "question": "تأسيس منشأة في السعودية",
+      "expected": "نظام الشركات",
+      "found": "الفقه الإسلامي, نظام الأحوال الشخصية, نظام الجنسية"
+    },
+    {
+      "question": "مؤسسة التضامن والتوصية",
+      "expected": "نظام الشركات",
+      "found": "نظام الكفالة, نظام التركات والوصايا, نظام الوصاية"
+    },
+    {
+      "question": "منشأة التضامن والتوصية",
+      "expected": "نظام الشركات",
+      "found": "نظام المنشآت, نظام الكفالة, نظام التركات والوصايا"
+    },
+    {
+      "question": "مؤسسة الشخص الواحد",
+      "expected": "نظام الشركات",
+      "found": "الفقه الإسلامي"
+    },
+    {
+      "question": "منشأة الشخص الواحد",
+      "expected": "نظام الشركات",
+      "found": "الفقه الإسلامي, نظام المنشآت"
+    },
+    {
+      "question": "مجلس إدارة المؤسسة",
+      "expected": "نظام الشركات",
+      "found": "None"
+    },
+    {
+      "question": "مجلس إدارة المنشأة",
+      "expected": "نظام الشركات",
+      "found": "نظام المنشآت"
+    },
+    {
+      "question": "الحماية القانونية لـ المساهمين",
+      "expected": "نظام الشركات",
+      "found": "نظام المحاماة"
+    },
+    {
+      "question": "ضمانات المساهمين",
+      "expected": "نظام الشركات",
+      "found": "نظام الضمان الاجتماعي"
+    },
+    {
+      "question": "عقد استئجار سكني في السعودية",
+      "expected": "نظام الإيجار",
+      "found": "الفقه الإسلامي, نظام الأحوال الشخصية, نظام الجنسية"
+    },
+    {
+      "question": "عقد استئجار تجاري",
+      "expected": "نظام الإيجار",
+      "found": "النظام العام للعقود"
+    },
+    {
+      "question": "مدة عقد الاستئجار",
+      "expected": "نظام الإيجار",
+      "found": "النظام العام للعقود"
+    },
+    {
+      "question": "زيادة الاستئجار السنوية",
+      "expected": "نظام الإيجار",
+      "found": "None"
+    },
+    {
+      "question": "إنهاء عقد الاستئجار",
+      "expected": "نظام الإيجار",
+      "found": "النظام العام للعقود"
+    },
+    {
+      "question": "تنازل عقد الاستئجار",
+      "expected": "نظام الإيجار",
+      "found": "نظام الجنسية, النظام العام للعقود"
+    },
+    {
+      "question": "الحماية القانونية لـ المتهم",
+      "expected": "نظام الإجراءات الجزائية",
+      "found": "نظام المحاماة"
+    },
+    {
+      "question": "ضمانات المتهم",
+      "expected": "نظام الإجراءات الجزائية",
+      "found": "نظام الضمان الاجتماعي"
+    },
+    {
+      "question": "الجرائم النقودية",
+      "expected": "نظام مكافحة غسل الأموال",
+      "found": "الفقه الإسلامي, نظام الأحوال الشخصية"
+    },
+    {
+      "question": "الجرائم الأموالية",
+      "expected": "نظام مكافحة غسل الأموال",
+      "found": "نظام الأموال والأملاك"
+    },
+    {
+      "question": "ما هو طقة التجارة الحرة؟",
+      "expected": "نظام الجمارك الموحد",
+      "found": "نظام التجارة, نظام التجارة الإلكترونية, الفقه الإسلامي"
+    },
+    {
+      "question": "ما هي طقة التجارة الحرة؟",
+      "expected": "نظام الجمارك الموحد",
+      "found": "نظام التجارة, نظام التجارة الإلكترونية, الفقه الإسلامي"
+    },
+    {
+      "question": "اشرح طقة التجارة الحرة",
+      "expected": "نظام الجمارك الموحد",
+      "found": "نظام التجارة, نظام التجارة الإلكترونية, الفقه الإسلامي"
+    },
+    {
+      "question": "تعريف طقة التجارة الحرة",
+      "expected": "نظام الجمارك الموحد",
+      "found": "نظام التجارة, نظام التجارة الإلكترونية, الفقه الإسلامي"
+    },
+    {
+      "question": "مواصفات وطنية إلزامية",
+      "expected": "نظام المواصفات والمقاييس",
+      "found": "None"
+    },
+    {
+      "question": "مواصفات مواطنة إلزامية",
+      "expected": "نظام المواصفات والمقاييس",
+      "found": "None"
+    },
+    {
+      "question": "حق الانسحاب من الاتفاق",
+      "expected": "نظام حماية المستهلك",
+      "found": "None"
+    },
+    {
+      "question": "حق الانسحاب من التعاقد",
+      "expected": "نظام حماية المستهلك",
+      "found": "None"
+    },
+    {
+      "question": "عقد التصرف الإلكتروني",
+      "expected": "نظام التجارة الإلكترونية",
+      "found": "الفقه الإسلامي, نظام البينات, نظام الجرائم المعلوماتية"
+    },
+    {
+      "question": "عقد المبايعة الإلكتروني",
+      "expected": "نظام التجارة الإلكترونية",
+      "found": "الفقه الإسلامي, نظام البينات, نظام الجرائم المعلوماتية"
+    },
+    {
+      "question": "متطلبات الاستخدام",
+      "expected": "نظام التجارة الإلكترونية",
+      "found": "None"
+    },
+    {
+      "question": "الأحكام اللازمة لـ الاستخدام",
+      "expected": "نظام التجارة الإلكترونية",
+      "found": "None"
+    },
+    {
+      "question": "الحماية القانونية لـ المشترى أونلاين",
+      "expected": "نظام حماية المستهلك",
+      "found": "نظام المحاماة"
+    },
+    {
+      "question": "ضمانات المشترى أونلاين",
+      "expected": "نظام حماية المستهلك",
+      "found": "نظام الضمان الاجتماعي"
+    },
+    {
+      "question": "ما هو صات التوصيل؟",
+      "expected": "نظام المنصات التجارية",
+      "found": "نظام الطيران المدني, نظام النقل, نظام الوصاية"
+    },
+    {
+      "question": "ما هي صات التوصيل؟",
+      "expected": "نظام المنصات التجارية",
+      "found": "نظام الطيران المدني, نظام النقل, نظام الوصاية"
+    },
+    {
+      "question": "اشرح صات التوصيل",
+      "expected": "نظام المنصات التجارية",
+      "found": "نظام الطيران المدني, نظام النقل, نظام الوصاية"
+    },
+    {
+      "question": "تعريف صات التوصيل",
+      "expected": "نظام المنصات التجارية",
+      "found": "نظام الطيران المدني, نظام النقل, نظام الوصاية"
+    },
+    {
+      "question": "ما هو صة توصيل طلبات؟",
+      "expected": "نظام المنصات التجارية",
+      "found": "نظام الطيران المدني, نظام النقل, نظام الوصاية"
+    },
+    {
+      "question": "ما هي صة توصيل طلبات؟",
+      "expected": "نظام المنصات التجارية",
+      "found": "نظام الطيران المدني, نظام النقل, نظام الوصاية"
+    },
+    {
+      "question": "اشرح صة توصيل طلبات",
+      "expected": "نظام المنصات التجارية",
+      "found": "نظام الطيران المدني, نظام النقل, نظام الوصاية"
+    },
+    {
+      "question": "تعريف صة توصيل طلبات",
+      "expected": "نظام المنصات التجارية",
+      "found": "نظام الطيران المدني, نظام النقل, نظام الوصاية"
+    },
+    {
+      "question": "ما هو صة تأجير سيارات؟",
+      "expected": "نظام المرور",
+      "found": "نظام الطيران المدني, نظام النقل, نظام العمل"
+    },
+    {
+      "question": "ما هي صة تأجير سيارات؟",
+      "expected": "نظام المرور",
+      "found": "نظام الطيران المدني, نظام النقل, نظام العمل"
+    }
+  ]
 }
