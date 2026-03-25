@@ -1,10 +1,10 @@
 {
-  "version": "5.14-FINAL-BOOST",
-  "timestamp": "2026-03-25T01:34:41.918Z",
+  "version": "5.15-ELITE",
+  "timestamp": "2026-03-25T01:36:41.250Z",
   "totalTests": 478,
-  "passed": 396,
-  "failed": 82,
-  "passRate": "82.8%",
+  "passed": 413,
+  "failed": 65,
+  "passRate": "86.4%",
   "categoryStats": {
     "fiqh-major": {
       "passed": 19,
@@ -427,15 +427,15 @@
       "total": 1
     },
     "arbitration": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "arbitration-contract": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "arbitration-award": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "enforcement": {
@@ -1035,35 +1035,35 @@
       "total": 1
     },
     "arb-intl": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "arb-contract": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "arb-arbitrators": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "arb-procedure": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "arb-award": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "arb-enforcement": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "arb-annulment": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "arb-center": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "med-commercial": {
@@ -1135,23 +1135,23 @@
       "total": 1
     },
     "arb-commercial": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "arb-realestate": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "arb-multiple": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "arb-challenge": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "arb-costs": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "lawsuit-file": {
@@ -1579,7 +1579,7 @@
       "total": 1
     },
     "scenario-arbitrator": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "scenario-psych": {
@@ -1634,21 +1634,6 @@
       "found": "None"
     },
     {
-      "question": "التحكيم التجاري",
-      "expected": "نظام التحكيم",
-      "found": "None"
-    },
-    {
-      "question": "عقد التحكيم",
-      "expected": "نظام التحكيم",
-      "found": "النظام العام للعقود"
-    },
-    {
-      "question": "حكم التحكيم",
-      "expected": "نظام التحكيم",
-      "found": "None"
-    },
-    {
       "question": "الجريمة المنظمة",
       "expected": "نظام مكافحة جرائم المخدرات",
       "found": "نظام الأمن السيبراني, نظام الإجراءات الجزائية, نظام الجرائم والعقوبات"
@@ -1661,7 +1646,7 @@
     {
       "question": "الإرهاب وتمويله",
       "expected": "نظام مكافحة جرائم الإرهاب",
-      "found": "نظام مراقبة التمويل"
+      "found": "نظام مراقبة التمويل, نظام مكافحة غسل الأموال وتمويل الإرهاب"
     },
     {
       "question": "الإعفاء الضريبي",
@@ -1784,46 +1769,6 @@
       "found": "نظام العلامات التجارية, نظام حماية حقوق المؤلف, نظام الذكاء الاصطناعي"
     },
     {
-      "question": "التحكيم التجاري الدولي",
-      "expected": "نظام التحكيم",
-      "found": "الفقه الإسلامي"
-    },
-    {
-      "question": "عقد التحكيم السعودي",
-      "expected": "نظام التحكيم",
-      "found": "نظام الجنسية, النظام العام للعقود"
-    },
-    {
-      "question": "اختيار المحكمين",
-      "expected": "نظام التحكيم",
-      "found": "None"
-    },
-    {
-      "question": "إجراءات التحكيم",
-      "expected": "نظام التحكيم",
-      "found": "None"
-    },
-    {
-      "question": "حكم التحكيم النهائي",
-      "expected": "نظام التحكيم",
-      "found": "None"
-    },
-    {
-      "question": "تنفيذ حكم التحكيم",
-      "expected": "نظام التحكيم",
-      "found": "نظام التنفيذ"
-    },
-    {
-      "question": "إبطال حكم التحكيم",
-      "expected": "نظام التحكيم",
-      "found": "None"
-    },
-    {
-      "question": "مركز التحكيم السعودي",
-      "expected": "نظام التحكيم",
-      "found": "نظام الجنسية"
-    },
-    {
       "question": "الوساطة التجارية",
       "expected": "نظام التحكيم",
       "found": "نظام العلامات التجارية"
@@ -1844,31 +1789,6 @@
       "found": "نظام حماية البيانات الشخصية"
     },
     {
-      "question": "التحكيم في النزاعات التجارية",
-      "expected": "نظام التحكيم",
-      "found": "نظام العلامات التجارية"
-    },
-    {
-      "question": "التحكيم في النزاعات العقارية",
-      "expected": "نظام التحكيم",
-      "found": "نظام الوساطة العقارية"
-    },
-    {
-      "question": "تعدد المحكمين",
-      "expected": "نظام التحكيم",
-      "found": "الفقه الإسلامي"
-    },
-    {
-      "question": "تحدي المحكم",
-      "expected": "نظام التحكيم",
-      "found": "الفقه الإسلامي"
-    },
-    {
-      "question": "تكاليف التحكيم",
-      "expected": "نظام التحكيم",
-      "found": "None"
-    },
-    {
       "question": "الإيداع المؤقت للرسوم",
       "expected": "نظام المرافعات الشرعية",
       "found": "نظام الرسوم"
@@ -1877,6 +1797,86 @@
       "question": "الاختصاص المحلي",
       "expected": "نظام المرافعات الشرعية",
       "found": "None"
+    },
+    {
+      "question": "الدفع بعدم الاختصاص",
+      "expected": "نظام المرافعات الشرعية",
+      "found": "None"
+    },
+    {
+      "question": "الإحالة إلى القضاء العام",
+      "expected": "نظام المرافعات الشرعية",
+      "found": "نظام القضاء"
+    },
+    {
+      "question": "الإجراءات التحضيرية",
+      "expected": "نظام المرافعات الشرعية",
+      "found": "None"
+    },
+    {
+      "question": "الجلسات القضائية",
+      "expected": "نظام المرافعات الشرعية",
+      "found": "None"
+    },
+    {
+      "question": "التأجيل والحضور",
+      "expected": "نظام المرافعات الشرعية",
+      "found": "None"
+    },
+    {
+      "question": "الغياب والحضور",
+      "expected": "نظام المرافعات الشرعية",
+      "found": "None"
+    },
+    {
+      "question": "الحكم الغيابي",
+      "expected": "نظام المرافعات الشرعية",
+      "found": "None"
+    },
+    {
+      "question": "الطعن في الحكم الغيابي",
+      "expected": "نظام المرافعات الشرعية",
+      "found": "None"
+    },
+    {
+      "question": "التوكيل القضائي",
+      "expected": "نظام المرافعات الشرعية",
+      "found": "نظام الوكالة الشرعية, الفقه الإسلامي"
+    },
+    {
+      "question": "سحب التوكيل",
+      "expected": "نظام المرافعات الشرعية",
+      "found": "نظام الوكالة الشرعية, الفقه الإسلامي"
+    },
+    {
+      "question": "الإشهاد والتوقيع",
+      "expected": "نظام المرافعات الشرعية",
+      "found": "نظام الإجراءات الجزائية"
+    },
+    {
+      "question": "الحجز التحفظي",
+      "expected": "نظام المرافعات الشرعية",
+      "found": "نظام التنفيذ, نظام الحج والعمرة, نظام وكالات السفر"
+    },
+    {
+      "question": "الحجز على السفن",
+      "expected": "نظام المرافعات الشرعية",
+      "found": "نظام التنفيذ, نظام الحج والعمرة, نظام العلامات التجارية"
+    },
+    {
+      "question": "الحجز على الطائرات",
+      "expected": "نظام المرافعات الشرعية",
+      "found": "نظام التنفيذ, نظام الحج والعمرة, نظام وكالات السفر"
+    },
+    {
+      "question": "الحجز على الأموال المنقولة",
+      "expected": "نظام المرافعات الشرعية",
+      "found": "نظام التنفيذ, نظام الأموال والأملاك, نظام الحج والعمرة"
+    },
+    {
+      "question": "القضاء العمالي",
+      "expected": "نظام العمل",
+      "found": "نظام القضاء"
     }
   ]
 }
