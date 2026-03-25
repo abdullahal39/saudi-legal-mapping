@@ -1,10 +1,10 @@
 {
-  "version": "5.10-FINAL-PUSH",
-  "timestamp": "2026-03-25T01:26:32.406Z",
+  "version": "5.14-FINAL-BOOST",
+  "timestamp": "2026-03-25T01:34:41.918Z",
   "totalTests": 478,
-  "passed": 386,
-  "failed": 92,
-  "passRate": "80.8%",
+  "passed": 396,
+  "failed": 82,
+  "passRate": "82.8%",
   "categoryStats": {
     "fiqh-major": {
       "passed": 19,
@@ -271,7 +271,7 @@
       "total": 1
     },
     "commercial-concealment": {
-      "passed": 0,
+      "passed": 2,
       "total": 2
     },
     "commercial-agency": {
@@ -283,19 +283,19 @@
       "total": 3
     },
     "ip": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "patent": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "copyright": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "industrial-design": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "lease-residential": {
@@ -355,7 +355,7 @@
       "total": 1
     },
     "realestate-foreign": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "realestate-planning": {
@@ -863,7 +863,7 @@
       "total": 1
     },
     "platforms-rental": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "platforms-parcel": {
@@ -887,7 +887,7 @@
       "total": 1
     },
     "platforms-crowdfunding": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "platforms-investment": {
@@ -1231,7 +1231,7 @@
       "total": 1
     },
     "lawsuit-interrogation": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "lawsuit-defense": {
@@ -1634,41 +1634,6 @@
       "found": "None"
     },
     {
-      "question": "التستر التجاري في السعودية",
-      "expected": "نظام مكافحة التستر",
-      "found": "الفقه الإسلامي, نظام الأحوال الشخصية, نظام الجنسية"
-    },
-    {
-      "question": "عقوبة التستر التجاري",
-      "expected": "نظام مكافحة التستر",
-      "found": "نظام مكافحة التستر التجاري, نظام الإجراءات الجزائية, نظام الجرائم والعقوبات"
-    },
-    {
-      "question": "الملكية الفكرية للشركات",
-      "expected": "نظام حماية الملكية الفكرية",
-      "found": "نظام الشركات"
-    },
-    {
-      "question": "براءة الاختراع في السعودية",
-      "expected": "نظام حماية الملكية الفكرية",
-      "found": "الفقه الإسلامي, نظام الأحوال الشخصية, نظام الجنسية"
-    },
-    {
-      "question": "حقوق المؤلف والنشر",
-      "expected": "نظام حماية الملكية الفكرية",
-      "found": "نظام العلامات التجارية, نظام حماية حقوق المؤلف"
-    },
-    {
-      "question": "التصميمات الصناعية",
-      "expected": "نظام حماية الملكية الفكرية",
-      "found": "نظام العلامات التجارية, نظام حماية حقوق المؤلف"
-    },
-    {
-      "question": "تملك الأجانب للعقار",
-      "expected": "نظام الاستثمار الأجنبي",
-      "found": "نظام الاستثمار, نظام الإقامة, نظام الجنسية"
-    },
-    {
       "question": "التحكيم التجاري",
       "expected": "نظام التحكيم",
       "found": "None"
@@ -1769,16 +1734,6 @@
       "found": "None"
     },
     {
-      "question": "منصة تأجير سيارات",
-      "expected": "نظام المرور",
-      "found": "نظام الطيران المدني, نظام النقل, نظام العمل"
-    },
-    {
-      "question": "منصة تمويل جماعي",
-      "expected": "نظام التمويل الجماعي",
-      "found": "نظام مراقبة التمويل, نظام المنصات التجارية, نظام المنصات الرقمية"
-    },
-    {
       "question": "منصة استثمارية",
       "expected": "نظام الاستثمار الأجنبي",
       "found": "نظام الاستثمار, نظام المساقاة, الفقه الإسلامي"
@@ -1877,6 +1832,51 @@
       "question": "الاتفاقية الوساطية",
       "expected": "نظام التحكيم",
       "found": "النظام العام للعقود"
+    },
+    {
+      "question": "الوسيط وتحييده",
+      "expected": "نظام التحكيم",
+      "found": "None"
+    },
+    {
+      "question": "سرية الوساطة",
+      "expected": "نظام التحكيم",
+      "found": "نظام حماية البيانات الشخصية"
+    },
+    {
+      "question": "التحكيم في النزاعات التجارية",
+      "expected": "نظام التحكيم",
+      "found": "نظام العلامات التجارية"
+    },
+    {
+      "question": "التحكيم في النزاعات العقارية",
+      "expected": "نظام التحكيم",
+      "found": "نظام الوساطة العقارية"
+    },
+    {
+      "question": "تعدد المحكمين",
+      "expected": "نظام التحكيم",
+      "found": "الفقه الإسلامي"
+    },
+    {
+      "question": "تحدي المحكم",
+      "expected": "نظام التحكيم",
+      "found": "الفقه الإسلامي"
+    },
+    {
+      "question": "تكاليف التحكيم",
+      "expected": "نظام التحكيم",
+      "found": "None"
+    },
+    {
+      "question": "الإيداع المؤقت للرسوم",
+      "expected": "نظام المرافعات الشرعية",
+      "found": "نظام الرسوم"
+    },
+    {
+      "question": "الاختصاص المحلي",
+      "expected": "نظام المرافعات الشرعية",
+      "found": "None"
     }
   ]
 }
