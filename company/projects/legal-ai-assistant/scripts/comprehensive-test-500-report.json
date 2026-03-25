@@ -1,10 +1,10 @@
 {
-  "version": "5.19-SUPREME",
-  "timestamp": "2026-03-25T01:44:34.480Z",
+  "version": "5.20-PERFECT",
+  "timestamp": "2026-03-25T01:49:48.470Z",
   "totalTests": 478,
-  "passed": 427,
-  "failed": 51,
-  "passRate": "89.3%",
+  "passed": 457,
+  "failed": 21,
+  "passRate": "95.6%",
   "categoryStats": {
     "fiqh-major": {
       "passed": 19,
@@ -779,11 +779,11 @@
       "total": 1
     },
     "ecommerce-payment": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "ecommerce-gateway": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "ecommerce-security": {
@@ -835,7 +835,7 @@
       "total": 1
     },
     "ecommerce-counterfeit": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "ecommerce-ip": {
@@ -931,7 +931,7 @@
       "total": 1
     },
     "platforms-payment": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "ai-system": {
@@ -987,7 +987,7 @@
       "total": 1
     },
     "ai-meetings": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "ai-signature": {
@@ -1015,7 +1015,7 @@
       "total": 1
     },
     "ai-copyright": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "ai-bias": {
@@ -1067,7 +1067,7 @@
       "total": 1
     },
     "med-commercial": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "med-labor": {
@@ -1083,15 +1083,15 @@
       "total": 1
     },
     "med-agreement": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "med-neutrality": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "med-confidentiality": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "settlement-friendly": {
@@ -1167,11 +1167,11 @@
       "total": 1
     },
     "lawsuit-deposit": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "lawsuit-venue": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "lawsuit-jurisdiction": {
@@ -1183,35 +1183,35 @@
       "total": 1
     },
     "lawsuit-objection": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "lawsuit-referral": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "lawsuit-preparatory": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "lawsuit-hearing": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "lawsuit-postponement": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "lawsuit-attendance": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "lawsuit-default": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "lawsuit-objection-default": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "lawsuit-evidence": {
@@ -1243,11 +1243,11 @@
       "total": 1
     },
     "lawsuit-proxy": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "lawsuit-revoke": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "lawsuit-waiver": {
@@ -1255,23 +1255,23 @@
       "total": 1
     },
     "lawsuit-notarization": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "lawsuit-injunction": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "lawsuit-ship": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "lawsuit-aircraft": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "lawsuit-assets": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "lawsuit-urgent": {
@@ -1287,7 +1287,7 @@
       "total": 1
     },
     "lawsuit-labor": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "lawsuit-commercial": {
@@ -1491,7 +1491,7 @@
       "total": 1
     },
     "scenario-investment": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "scenario-ecommerce": {
@@ -1515,7 +1515,7 @@
       "total": 1
     },
     "scenario-piracy": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "scenario-fraud": {
@@ -1644,34 +1644,9 @@
       "found": "نظام البينات, نظام المنشآت, نظام الجرائم المعلوماتية"
     },
     {
-      "question": "الدفع الإلكتروني",
-      "expected": "نظام المدفوعات",
-      "found": "نظام البينات, نظام الجرائم المعلوماتية, نظام التجارة الإلكترونية"
-    },
-    {
-      "question": "بوابات الدفع",
-      "expected": "نظام المدفوعات",
-      "found": "نظام التجارة الإلكترونية"
-    },
-    {
-      "question": "المنتجات المقلدة",
-      "expected": "نظام حماية الملكية الفكرية",
-      "found": "نظام حماية المستهلك"
-    },
-    {
       "question": "منصة تداول الأسهم",
       "expected": "نظام أسواق المال",
       "found": "نظام الأوراق المالية, نظام السوق المالية, الفقه الإسلامي"
-    },
-    {
-      "question": "تطبيق وسائل دفع",
-      "expected": "نظام المدفوعات",
-      "found": "نظام المنصات الرقمية"
-    },
-    {
-      "question": "الجمعيات العمومية عن بعد",
-      "expected": "نظام الشركات",
-      "found": "نظام الذكاء الاصطناعي, نظام الجمعيات والمؤسسات الأهلية"
     },
     {
       "question": "التوقيع الإلكتروني",
@@ -1694,126 +1669,6 @@
       "found": "نظام البينات, نظام الجرائم المعلوماتية, نظام العقوبات البديلة"
     },
     {
-      "question": "حقوق المؤلف للمحتوى AI",
-      "expected": "نظام حماية الملكية الفكرية",
-      "found": "نظام العلامات التجارية, نظام حماية حقوق المؤلف, نظام الذكاء الاصطناعي"
-    },
-    {
-      "question": "الوساطة التجارية",
-      "expected": "نظام التحكيم",
-      "found": "نظام العلامات التجارية"
-    },
-    {
-      "question": "الاتفاقية الوساطية",
-      "expected": "نظام التحكيم",
-      "found": "النظام العام للعقود"
-    },
-    {
-      "question": "الوسيط وتحييده",
-      "expected": "نظام التحكيم",
-      "found": "None"
-    },
-    {
-      "question": "سرية الوساطة",
-      "expected": "نظام التحكيم",
-      "found": "نظام حماية البيانات الشخصية"
-    },
-    {
-      "question": "الإيداع المؤقت للرسوم",
-      "expected": "نظام المرافعات الشرعية",
-      "found": "نظام الرسوم"
-    },
-    {
-      "question": "الاختصاص المحلي",
-      "expected": "نظام المرافعات الشرعية",
-      "found": "None"
-    },
-    {
-      "question": "الدفع بعدم الاختصاص",
-      "expected": "نظام المرافعات الشرعية",
-      "found": "None"
-    },
-    {
-      "question": "الإحالة إلى القضاء العام",
-      "expected": "نظام المرافعات الشرعية",
-      "found": "نظام القضاء"
-    },
-    {
-      "question": "الإجراءات التحضيرية",
-      "expected": "نظام المرافعات الشرعية",
-      "found": "None"
-    },
-    {
-      "question": "الجلسات القضائية",
-      "expected": "نظام المرافعات الشرعية",
-      "found": "None"
-    },
-    {
-      "question": "التأجيل والحضور",
-      "expected": "نظام المرافعات الشرعية",
-      "found": "None"
-    },
-    {
-      "question": "الغياب والحضور",
-      "expected": "نظام المرافعات الشرعية",
-      "found": "None"
-    },
-    {
-      "question": "الحكم الغيابي",
-      "expected": "نظام المرافعات الشرعية",
-      "found": "None"
-    },
-    {
-      "question": "الطعن في الحكم الغيابي",
-      "expected": "نظام المرافعات الشرعية",
-      "found": "None"
-    },
-    {
-      "question": "التوكيل القضائي",
-      "expected": "نظام المرافعات الشرعية",
-      "found": "نظام الوكالة الشرعية, الفقه الإسلامي"
-    },
-    {
-      "question": "سحب التوكيل",
-      "expected": "نظام المرافعات الشرعية",
-      "found": "نظام الوكالة الشرعية, الفقه الإسلامي"
-    },
-    {
-      "question": "الإشهاد والتوقيع",
-      "expected": "نظام المرافعات الشرعية",
-      "found": "نظام الإجراءات الجزائية"
-    },
-    {
-      "question": "الحجز التحفظي",
-      "expected": "نظام المرافعات الشرعية",
-      "found": "نظام التنفيذ, نظام الحج والعمرة, نظام وكالات السفر"
-    },
-    {
-      "question": "الحجز على السفن",
-      "expected": "نظام المرافعات الشرعية",
-      "found": "نظام التنفيذ, نظام الحج والعمرة, نظام العلامات التجارية"
-    },
-    {
-      "question": "الحجز على الطائرات",
-      "expected": "نظام المرافعات الشرعية",
-      "found": "نظام التنفيذ, نظام الحج والعمرة, نظام وكالات السفر"
-    },
-    {
-      "question": "الحجز على الأموال المنقولة",
-      "expected": "نظام المرافعات الشرعية",
-      "found": "نظام التنفيذ, نظام الأموال والأملاك, نظام الحج والعمرة"
-    },
-    {
-      "question": "القضاء العمالي",
-      "expected": "نظام العمل",
-      "found": "نظام القضاء"
-    },
-    {
-      "question": "أجنبي يريد تأسيس شركة في السعودية",
-      "expected": "نظام الاستثمار الأجنبي",
-      "found": "الفقه الإسلامي, نظام الأحوال الشخصية, نظام الشركات"
-    },
-    {
       "question": "طبيب يرتكب خطأ طبي يؤدي لوفاة",
       "expected": "نظام الممارسات الصحية",
       "found": "نظام مزاولة المهن الصحية, الفقه الإسلامي"
@@ -1827,11 +1682,6 @@
       "question": "موظف حكومي يفشي سراً رسمياً",
       "expected": "نظام الجرائم الإلكترونية",
       "found": "نظام العمل, نظام الخدمة المدنية, نظام الموظفين"
-    },
-    {
-      "question": "شركة تستخدم برنامج مقرصن",
-      "expected": "نظام حماية الملكية الفكرية",
-      "found": "None"
     },
     {
       "question": "مستثمر يتهم شركة بالاحتيال",
@@ -1877,6 +1727,11 @@
       "question": "منصة تداول تتلاعب بأسعار الأسهم",
       "expected": "نظام أسواق المال",
       "found": "نظام الأوراق المالية, نظام السوق المالية, الفقه الإسلامي"
+    },
+    {
+      "question": "مؤسسة حكومية ترفض طلب معلومات",
+      "expected": "نظام الوصول للمعلومات",
+      "found": "None"
     }
   ]
 }
