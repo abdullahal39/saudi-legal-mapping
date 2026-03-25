@@ -1,0 +1,38 @@
+{
+  "version": "v5.1",
+  "timestamp": "2026-03-25T00:38:06.801Z",
+  "totalTests": 81,
+  "passed": 73,
+  "failed": 8,
+  "passRate": "90.1%",
+  "categoryResults": {
+    "major": {
+      "passed": 5,
+      "total": 5
+    },
+    "financial": {
+      "passed": 24,
+      "total": 25
+    },
+    "family": {
+      "passed": 20,
+      "total": 20
+    },
+    "inheritance": {
+      "passed": 5,
+      "total": 7
+    },
+    "penal": {
+      "passed": 10,
+      "total": 15
+    },
+    "worship": {
+      "passed": 5,
+      "total": 5
+    },
+    "food": {
+      "passed": 4,
+      "total": 4
+    }
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "tables": {
+    "articles": {
+      "columns": {
+        "amendment_decree": {
+          "type": "object",
+          "status": "✅",
+          "note": ""
+        },
+        "article_number": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        },
+        "article_number_int": {
+          "type": "number",
+          "status": "✅",
+          "note": ""
+        },
+        "article_number_normalized": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        },
+        "chapter_id": {
+          "type": "object",
+          "status": "✅",
+          "note": ""
+        },
+        "content": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        },
+        "content_normalized": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        },
+        "created_at": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        },
+        "document_id": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        },
+        "embedding": {
+          "type": "string",
+          "status": "✅",
+          "note": "Backup موجود"
+        },
+        "embedding_vec": {
+          "type": "string",
+          "status": "⚠️",
+          "note": "String — يجب أن يكون Array"
+        },
+        "id": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        },
+        "is_amended": {
+          "type": "boolean",
+          "status": "✅",
+          "note": ""
+        },
+        "is_repealed": {
+          "type": "boolean",
+          "status": "✅",
+          "note": ""
+        },
+        "original_content": {
+          "type": "object",
+          "status": "✅",
+          "note": ""
+        },
+        "part_id": {
+          "type": "object",
+          "status": "✅",
+          "note": ""
+        },
+        "search_terms": {
+          "type": "string",
+          "status": "⚠️",
+          "note": "String — قد يكون صحيحاً إذا كان tsvector"
+        },
+        "title": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        }
+      },
+      "dataStatus": {
+        "embedding_vec": {
+          "filled": 18192,
+          "total": 18192,
+          "pct": "100.0"
+        },
+        "search_terms": {
+          "filled": 18192,
+          "total": 18192,
+          "pct": "100.0"
+        }
+      },
+      "issues": [
+        "embedding_vec نوعه String بدلاً من Array"
+      ],
+      "total": 18192
+    },
+    "judicial_precedents": {
+      "columns": {
+        "city": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        },
+        "content": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        },
+        "content_normalized": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        },
+        "court_type": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        },
+        "created_at": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        },
+        "embedding": {
+          "type": "string",
+          "status": "✅",
+          "note": "Backup موجود"
+        },
+        "embedding_vec": {
+          "type": "string",
+          "status": "⚠️",
+          "note": "String — يجب أن يكون Array"
+        },
+        "id": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        },
+        "main_category": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        },
+        "page": {
+          "type": "object",
+          "status": "✅",
+          "note": ""
+        },
+        "ruling_number": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        },
+        "search_terms": {
+          "type": "string",
+          "status": "⚠️",
+          "note": "String — قد يكون صحيحاً إذا كان tsvector"
+        },
+        "source": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        },
+        "source_url": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        },
+        "sub_category": {
+          "type": "object",
+          "status": "✅",
+          "note": ""
+        },
+        "title": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        },
+        "volume": {
+          "type": "object",
+          "status": "✅",
+          "note": ""
+        },
+        "year": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        }
+      },
+      "dataStatus": {
+        "embedding_vec": {
+          "filled": 13624,
+          "total": 13624,
+          "pct": "100.0"
+        },
+        "search_terms": {
+          "filled": 13624,
+          "total": 13624,
+          "pct": "100.0"
+        }
+      },
+      "issues": [
+        "embedding_vec نوعه String بدلاً من Array"
+      ],
+      "total": 13624
+    },
+    "tameems": {
+      "columns": {
+        "content": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        },
+        "content_normalized": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        },
+        "created_at": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        },
+        "embedding": {
+          "type": "string",
+          "status": "✅",
+          "note": "Backup موجود"
+        },
+        "embedding_vec": {
+          "type": "string",
+          "status": "⚠️",
+          "note": "String — يجب أن يكون Array"
+        },
+        "id": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        },
+        "search_terms": {
+          "type": "string",
+          "status": "⚠️",
+          "note": "String — قد يكون صحيحاً إذا كان tsvector"
+        },
+        "serial_number": {
+          "type": "number",
+          "status": "✅",
+          "note": ""
+        },
+        "source_url": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        },
+        "subject": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        },
+        "tameem_date": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        },
+        "tameem_number": {
+          "type": "string",
+          "status": "✅",
+          "note": ""
+        }
+      },
+      "dataStatus": {
+        "embedding_vec": {
+          "filled": 339,
+          "total": 339,
+          "pct": "100.0"
+        },
+        "search_terms": {
+          "filled": 339,
+          "total": 339,
+          "pct": "100.0"
+        }
+      },
+      "issues": [
+        "embedding_vec نوعه String بدلاً من Array"
+      ],
+      "total": 339
+    }
+  },
+  "criticalArticles": {
+    "53": {
+      "found": false
+    },
+    "82": {
+      "found": false
+    },
+    "155": {
+      "found": false
+    }
+  },
+  "issues": [
+    "المادة الحرجة 53 غير موجودة",
+    "المادة الحرجة 82 غير موجودة",
+    "المادة الحرجة 155 غير موجودة"
+  ],
+  "fixes": []
+}

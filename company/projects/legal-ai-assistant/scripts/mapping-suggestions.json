@@ -1,0 +1,437 @@
+[
+  {
+    "article": "16",
+    "system": "نظام التنفيذ",
+    "frequency": 1402,
+    "relatedArticles": [
+      "90",
+      "30",
+      "29",
+      "76",
+      "58",
+      "31",
+      "78",
+      "11",
+      "10",
+      "164",
+      "51",
+      "17",
+      "56"
+    ],
+    "suggestedKeywords": [
+      "تنفيذ",
+      "حجز",
+      "مزاد",
+      "سند تنفيذي"
+    ]
+  },
+  {
+    "article": "90",
+    "system": "نظام التنفيذ",
+    "frequency": 797,
+    "relatedArticles": [
+      "16",
+      "30",
+      "29",
+      "76",
+      "58",
+      "78"
+    ],
+    "suggestedKeywords": [
+      "تنفيذ",
+      "حجز",
+      "مزاد",
+      "سند تنفيذي"
+    ]
+  },
+  {
+    "article": "30",
+    "system": "نظام التنفيذ",
+    "frequency": 541,
+    "relatedArticles": [
+      "16",
+      "29",
+      "90",
+      "58",
+      "10",
+      "164",
+      "78"
+    ],
+    "suggestedKeywords": [
+      "تنفيذ",
+      "حجز",
+      "مزاد",
+      "سند تنفيذي"
+    ]
+  },
+  {
+    "article": "29",
+    "system": "نظام الإثبات",
+    "frequency": 474,
+    "relatedArticles": [
+      "30",
+      "16",
+      "90",
+      "164",
+      "58",
+      "21"
+    ],
+    "suggestedKeywords": [
+      "إثبات",
+      "بينة",
+      "إقرار",
+      "يمين"
+    ]
+  },
+  {
+    "article": "76",
+    "system": "نظام المرافعات الشرعية",
+    "frequency": 428,
+    "relatedArticles": [
+      "16",
+      "31",
+      "90"
+    ],
+    "suggestedKeywords": [
+      "دعوى",
+      "خصومة",
+      "مرافعة",
+      "استئناف"
+    ]
+  },
+  {
+    "article": "58",
+    "system": "نظام التنفيذ",
+    "frequency": 267,
+    "relatedArticles": [
+      "16",
+      "30",
+      "90",
+      "8",
+      "29"
+    ],
+    "suggestedKeywords": [
+      "تنفيذ",
+      "حجز",
+      "مزاد",
+      "سند تنفيذي"
+    ]
+  },
+  {
+    "article": "78",
+    "system": "نظام التنفيذ",
+    "frequency": 213,
+    "relatedArticles": [
+      "215",
+      "16",
+      "90",
+      "30"
+    ],
+    "suggestedKeywords": [
+      "تنفيذ",
+      "حجز",
+      "مزاد",
+      "سند تنفيذي"
+    ]
+  },
+  {
+    "article": "164",
+    "system": "نظام القضاء",
+    "frequency": 205,
+    "relatedArticles": [
+      "16",
+      "29",
+      "30"
+    ],
+    "suggestedKeywords": [
+      "محكمة",
+      "قاضي",
+      "قضاء",
+      "درجات التقاضي"
+    ]
+  },
+  {
+    "article": "31",
+    "system": "نظام التنفيذ",
+    "frequency": 175,
+    "relatedArticles": [
+      "76",
+      "16"
+    ],
+    "suggestedKeywords": [
+      "تنفيذ",
+      "حجز",
+      "مزاد",
+      "سند تنفيذي"
+    ]
+  },
+  {
+    "article": "17",
+    "system": "نظام التنفيذ",
+    "frequency": 132,
+    "relatedArticles": [
+      "16"
+    ],
+    "suggestedKeywords": [
+      "تنفيذ",
+      "حجز",
+      "مزاد",
+      "سند تنفيذي"
+    ]
+  },
+  {
+    "article": "70",
+    "system": "نظام المرافعات الشرعية",
+    "frequency": 127,
+    "relatedArticles": [],
+    "suggestedKeywords": [
+      "دعوى",
+      "خصومة",
+      "مرافعة",
+      "استئناف"
+    ]
+  },
+  {
+    "article": "200",
+    "system": "نظام التنفيذ",
+    "frequency": 126,
+    "relatedArticles": [],
+    "suggestedKeywords": [
+      "تنفيذ",
+      "حجز",
+      "مزاد",
+      "سند تنفيذي"
+    ]
+  },
+  {
+    "article": "3",
+    "system": "نظام الإثبات",
+    "frequency": 110,
+    "relatedArticles": [],
+    "suggestedKeywords": [
+      "إثبات",
+      "بينة",
+      "إقرار",
+      "يمين"
+    ]
+  },
+  {
+    "article": "51",
+    "system": "نظام التنفيذ",
+    "frequency": 108,
+    "relatedArticles": [
+      "56",
+      "16"
+    ],
+    "suggestedKeywords": [
+      "تنفيذ",
+      "حجز",
+      "مزاد",
+      "سند تنفيذي"
+    ]
+  },
+  {
+    "article": "215",
+    "system": "نظام التنفيذ",
+    "frequency": 108,
+    "relatedArticles": [
+      "78"
+    ],
+    "suggestedKeywords": [
+      "تنفيذ",
+      "حجز",
+      "مزاد",
+      "سند تنفيذي"
+    ]
+  },
+  {
+    "article": "11",
+    "system": "نظام التنفيذ",
+    "frequency": 106,
+    "relatedArticles": [
+      "16"
+    ],
+    "suggestedKeywords": [
+      "تنفيذ",
+      "حجز",
+      "مزاد",
+      "سند تنفيذي"
+    ]
+  },
+  {
+    "article": "21",
+    "system": "نظام العمل",
+    "frequency": 96,
+    "relatedArticles": [
+      "29"
+    ],
+    "suggestedKeywords": [
+      "عامل",
+      "موظف",
+      "عمل",
+      "عقد عمل"
+    ]
+  },
+  {
+    "article": "26",
+    "system": "نظام التنفيذ",
+    "frequency": 93,
+    "relatedArticles": [],
+    "suggestedKeywords": [
+      "تنفيذ",
+      "حجز",
+      "مزاد",
+      "سند تنفيذي"
+    ]
+  },
+  {
+    "article": "66",
+    "system": "نظام الإثبات",
+    "frequency": 93,
+    "relatedArticles": [],
+    "suggestedKeywords": [
+      "إثبات",
+      "بينة",
+      "إقرار",
+      "يمين"
+    ]
+  },
+  {
+    "article": "19",
+    "system": "نظام المرافعات الشرعية",
+    "frequency": 81,
+    "relatedArticles": [],
+    "suggestedKeywords": [
+      "دعوى",
+      "خصومة",
+      "مرافعة",
+      "استئناف"
+    ]
+  },
+  {
+    "article": "20",
+    "system": "نظام المرافعات الشرعية",
+    "frequency": 79,
+    "relatedArticles": [],
+    "suggestedKeywords": [
+      "دعوى",
+      "خصومة",
+      "مرافعة",
+      "استئناف"
+    ]
+  },
+  {
+    "article": "14",
+    "system": "نظام التنفيذ",
+    "frequency": 77,
+    "relatedArticles": [],
+    "suggestedKeywords": [
+      "تنفيذ",
+      "حجز",
+      "مزاد",
+      "سند تنفيذي"
+    ]
+  },
+  {
+    "article": "2",
+    "system": "نظام الإثبات",
+    "frequency": 75,
+    "relatedArticles": [],
+    "suggestedKeywords": [
+      "إثبات",
+      "بينة",
+      "إقرار",
+      "يمين"
+    ]
+  },
+  {
+    "article": "10",
+    "system": "نظام الإثبات",
+    "frequency": 72,
+    "relatedArticles": [
+      "16",
+      "30"
+    ],
+    "suggestedKeywords": [
+      "إثبات",
+      "بينة",
+      "إقرار",
+      "يمين"
+    ]
+  },
+  {
+    "article": "92",
+    "system": "نظام التنفيذ",
+    "frequency": 60,
+    "relatedArticles": [],
+    "suggestedKeywords": [
+      "تنفيذ",
+      "حجز",
+      "مزاد",
+      "سند تنفيذي"
+    ]
+  },
+  {
+    "article": "79",
+    "system": "نظام التنفيذ",
+    "frequency": 58,
+    "relatedArticles": [],
+    "suggestedKeywords": [
+      "تنفيذ",
+      "حجز",
+      "مزاد",
+      "سند تنفيذي"
+    ]
+  },
+  {
+    "article": "56",
+    "system": "نظام التنفيذ",
+    "frequency": 57,
+    "relatedArticles": [
+      "51",
+      "16"
+    ],
+    "suggestedKeywords": [
+      "تنفيذ",
+      "حجز",
+      "مزاد",
+      "سند تنفيذي"
+    ]
+  },
+  {
+    "article": "41",
+    "system": "نظام التنفيذ",
+    "frequency": 56,
+    "relatedArticles": [],
+    "suggestedKeywords": [
+      "تنفيذ",
+      "حجز",
+      "مزاد",
+      "سند تنفيذي"
+    ]
+  },
+  {
+    "article": "9",
+    "system": "نظام التنفيذ",
+    "frequency": 55,
+    "relatedArticles": [],
+    "suggestedKeywords": [
+      "تنفيذ",
+      "حجز",
+      "مزاد",
+      "سند تنفيذي"
+    ]
+  },
+  {
+    "article": "18",
+    "system": "نظام المرافعات الشرعية",
+    "frequency": 54,
+    "relatedArticles": [],
+    "suggestedKeywords": [
+      "دعوى",
+      "خصومة",
+      "مرافعة",
+      "استئناف"
+    ]
+  }
+]

@@ -1,0 +1,170 @@
+{
+  "timestamp": "2026-03-24T20:26:38.159Z",
+  "config": {
+    "randomQueries": 10,
+    "materialityQueries": 5,
+    "topK": 5,
+    "vectorWeight": 0.7,
+    "ftsWeight": 0.3
+  },
+  "criticalArticles": [
+    "53",
+    "82",
+    "155"
+  ],
+  "randomQueries": [
+    {
+      "id": "R1",
+      "type": "random",
+      "query": ") المذكور بحوالي مليوني ريال ثم تقاعس عن تمويل المشروع وبعد أن تعثر المشروع مرة أخرى أوقف الصرف عنه",
+      "sourceTable": "judicial_precedents",
+      "sourceId": "ee514708-d617-4f61-a13e-2ba9e264cb68",
+      "expectedArticle": null,
+      "isCritical": false
+    },
+    {
+      "id": "R2",
+      "type": "random",
+      "query": "يجوز ضمان وفاء مبلغ الشيك كله أو بعضه من ضامن احتياطي، ويكون هذا الضمان من الغير عدا المسحوب عليه، كما يجوز أن يكون من أحد الموقعين على الشيك",
+      "sourceTable": "articles",
+      "sourceId": "a844c02d-000a-4e45-a531-e366ffe8981f",
+      "expectedArticle": "(101)",
+      "isCritical": false
+    },
+    {
+      "id": "R3",
+      "type": "random",
+      "query": "وبناء على ذلك ونظراً لكثرة وجود مثل هذه القضايا في المحاكم نشفع لكم برفقه صورة من الفتوى المشار إليها للاستنارة بها فيما نصت عليه من مسائل",
+      "sourceTable": "tameems",
+      "sourceId": "b270beae-98b3-4de0-9bba-004f6fca0a03",
+      "expectedArticle": null,
+      "isCritical": false
+    },
+    {
+      "id": "R4",
+      "type": "random",
+      "query": "الأَنْظِمَة وَاللَوَائِحُ\nنظام القضاء الصادر بالمرسوم الملكي رقم (م/٦٤) وتاريخ ١٣٩٥/٧/١٤هـ",
+      "sourceTable": "judicial_precedents",
+      "sourceId": "a2cedf14-5fac-44cf-8dd2-cb02e71f3f60",
+      "expectedArticle": null,
+      "isCritical": false
+    },
+    {
+      "id": "R5",
+      "type": "random",
+      "query": "كل بلدة ليس فيها قاضي مستعجلة ، يقوم قاضي البلدة بجميع أعمال واختصاصات المحاكم المستعجلة إضافة إلى أعماله",
+      "sourceTable": "articles",
+      "sourceId": "cfbb0853-46ff-484a-aa40-7e7be34514e8",
+      "expectedArticle": "(85)",
+      "isCritical": false
+    },
+    {
+      "id": "R6",
+      "type": "random",
+      "query": "وينظر نص التعميم في المقاييس والأطوال 3/586",
+      "sourceTable": "tameems",
+      "sourceId": "94bc75cf-ab85-4eef-a131-0426523df71f",
+      "expectedArticle": null,
+      "isCritical": false
+    },
+    {
+      "id": "R7",
+      "type": "random",
+      "query": "إلخ) - أثره: عدم اختصاص ديوان المظالم بنظر الدعوى",
+      "sourceTable": "judicial_precedents",
+      "sourceId": "f26e908b-3084-4336-b76c-4aaac1b53d74",
+      "expectedArticle": null,
+      "isCritical": false
+    },
+    {
+      "id": "R8",
+      "type": "random",
+      "query": "يضمن صاحب الكمبيالة قبولها ووفاءها، ويجوز أن يشترط إعفاءه من ضمان القبول دون ضمان الوفاء",
+      "sourceTable": "articles",
+      "sourceId": "1c0de3e6-5c67-4665-9f7f-a71e1d1f85e0",
+      "expectedArticle": "(11)",
+      "isCritical": false
+    },
+    {
+      "id": "R9",
+      "type": "random",
+      "query": "القيام بمساعدة مقيد الأوراق في جميع ما هو داخل في صلاحيته وموضح في مواده",
+      "sourceTable": "articles",
+      "sourceId": "5622843b-a5d3-423d-a3fb-a9b9507ce5b7",
+      "expectedArticle": "(141)",
+      "isCritical": false
+    },
+    {
+      "id": "R10",
+      "type": "random",
+      "query": "يجب أن تكون هذه الدفاتر قبل استعمالها مسجلة في  قلم المحكمة التجارية  حسب الأصول",
+      "sourceTable": "articles",
+      "sourceId": "67b7040b-3d55-40f0-8742-65395b0fd471",
+      "expectedArticle": "(8)",
+      "isCritical": false
+    }
+  ],
+  "materialityQueries": [
+    {
+      "id": "M1",
+      "query": "ما هي حقوق العامل في فترة التجربة؟",
+      "expectedArticles": [
+        "53",
+        "54"
+      ],
+      "category": "employment",
+      "critical": true,
+      "note": "Q1: فصل الموظفة في فترة التجربة"
+    },
+    {
+      "id": "M2",
+      "query": "هل يجوز فصل العامل بسبب المرض؟",
+      "expectedArticles": [
+        "82",
+        "117"
+      ],
+      "category": "employment",
+      "critical": true,
+      "note": "Q1: حماية العامل من الفصل بسبب المرض"
+    },
+    {
+      "id": "M3",
+      "query": "ما هي حماية المرأة العاملة أثناء الحمل؟",
+      "expectedArticles": [
+        "155"
+      ],
+      "category": "employment",
+      "critical": true,
+      "note": "Q1: المادة 155 — حماية خاصة"
+    },
+    {
+      "id": "M4",
+      "query": "كيف يتم إنهاء عقد العمل غير المحدد المدة؟",
+      "expectedArticles": [
+        "74",
+        "75",
+        "77"
+      ],
+      "category": "employment",
+      "critical": true,
+      "note": "Q5: إرادة أحد الطرفين"
+    },
+    {
+      "id": "M5",
+      "query": "ما هي مدد الإجازة المرضية للعامل؟",
+      "expectedArticles": [
+        "117",
+        "82"
+      ],
+      "category": "employment",
+      "critical": true,
+      "note": "Q1: المادة 117 — مدد الإجازة"
+    }
+  ],
+  "sampleStats": {
+    "articles": 50,
+    "precedents": 20,
+    "tameems": 10
+  },
+  "totalQueries": 15
+}

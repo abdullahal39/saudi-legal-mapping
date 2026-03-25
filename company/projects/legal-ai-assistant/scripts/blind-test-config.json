@@ -1,0 +1,93 @@
+{
+  "timestamp": "2026-03-24T20:19:20.667Z",
+  "config": {
+    "samplesPerTable": 50,
+    "totalQueries": 10,
+    "topK": 5,
+    "vectorWeight": 0.7,
+    "ftsWeight": 0.3
+  },
+  "criticalArticles": [
+    "53",
+    "82",
+    "155"
+  ],
+  "queries": [
+    {
+      "id": 1,
+      "query": ") مذكرة في الدعوى ذكر فيها أن المستثمر (",
+      "expectedSource": "judicial_precedents",
+      "expectedArticle": null,
+      "isCritical": false
+    },
+    {
+      "id": 2,
+      "query": "يكون موعد الحضور في الدعاوى المستعجلة أربعًا وعشرين ساعة، ويجوز في حالة الضرورة القصوى نقص هذا الموعد بأمر من المحكمة",
+      "expectedSource": "articles",
+      "expectedArticle": "السابعة بعد المائتين",
+      "isCritical": false
+    },
+    {
+      "id": 3,
+      "query": "١٤\nاختصَاص\nالمادة (٩) من نظام ديوان المظالم الصادر بالمرسوم الملكي رقم (م/٥١) وتاريخ ١٧/ ١٤٠٢/٧ هـ",
+      "expectedSource": "judicial_precedents",
+      "expectedArticle": null,
+      "isCritical": false
+    },
+    {
+      "id": 4,
+      "query": "يجوز للمجلس تشكيل لجان من بعض أعضائه للنظر في قضايا معينة، ورفع النتيجة فيها إلى المجلس لاتخاذ القرار اللازم",
+      "expectedSource": "articles",
+      "expectedArticle": "الحادية والعشرون",
+      "isCritical": false
+    },
+    {
+      "id": 5,
+      "query": "وينظر نص التعميم في المقاييس 3/583",
+      "expectedSource": "tameems",
+      "expectedArticle": null,
+      "isCritical": false
+    },
+    {
+      "id": 6,
+      "query": ") فيما تبين عدم حضور من يمثل المدعى عليها رغم تبلغها بموعد هذه الجلسة بموجب مهمة التبليغ رقم (",
+      "expectedSource": "judicial_precedents",
+      "expectedArticle": null,
+      "isCritical": false
+    },
+    {
+      "id": 7,
+      "query": "صلاحيته كصلاحية كاتب الضبط ومساعدته في كل أعماله",
+      "expectedSource": "articles",
+      "expectedArticle": "(127)",
+      "isCritical": false
+    },
+    {
+      "id": 8,
+      "query": "نص الحكم: حكمت الدائرة بإلزام المدعى عليها (",
+      "expectedSource": "judicial_precedents",
+      "expectedArticle": null,
+      "isCritical": false
+    },
+    {
+      "id": 9,
+      "query": "٠٠) أحد عشر ألفًا وخمس مئة ريال سعودي، هذه دعواي",
+      "expectedSource": "judicial_precedents",
+      "expectedArticle": null,
+      "isCritical": false
+    },
+    {
+      "id": 10,
+      "query": "ولما كان المختص بذلك هي الجهات التنفيذية، والديوان إنما هو جهة قضاء إداري، فإن هذه الدعوى بمنأى عن رقابة الديوان",
+      "expectedSource": "judicial_precedents",
+      "expectedArticle": null,
+      "isCritical": false
+    }
+  ],
+  "sampleStats": {
+    "articles": 50,
+    "precedents": 20,
+    "tameems": 10,
+    "total": 80
+  }
+}

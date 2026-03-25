@@ -1,0 +1,78 @@
+{
+  "timestamp": "2026-03-25T00:01:47.528Z",
+  "mappingVersion": "v4 FINAL",
+  "totalQueries": 100,
+  "passed": 89,
+  "failed": 11,
+  "passRate": "89.0%",
+  "categoryResults": {
+    "fiqh": {
+      "passed": 9,
+      "total": 10
+    },
+    "labor": {
+      "passed": 10,
+      "total": 11
+    },
+    "enforcement": {
+      "passed": 9,
+      "total": 10
+    },
+    "evidence": {
+      "passed": 5,
+      "total": 5
+    },
+    "tax": {
+      "passed": 1,
+      "total": 1
+    },
+    "customs": {
+      "passed": 2,
+      "total": 2
+    },
+    "investment": {
+      "passed": 1,
+      "total": 2
+    },
+    "traffic": {
+      "passed": 2,
+      "total": 2
+    },
+    "municipal": {
+      "passed": 2,
+      "total": 2
+    },
+    "health": {
+      "passed": 1,
+      "total": 2
+    },
+    "cybercrime": {
+      "passed": 2,
+      "total": 2
+    },
+    "residency": {
+      "passed": 1,
+      "total": 1
+    },
+    "saudization": {
+      "passed": 2,
+      "total": 2
+    },
+    "legal": {
+      "passed": 1,
+      "total": 1
+    },
+    "copyright": {
+      "passed": 1,
+      "total": 1
+    },
+    "privacy": {
+      "passed": 2,
+      "total": 2
+    },
+    "cybersecurity": {
+      "passed": 1,
+      "total": 1
+    }
+  }
+}

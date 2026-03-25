@@ -1,0 +1,1451 @@
+{
+  "metadata": {
+    "generatedAt": "2026-03-24T23:23:02.490Z",
+    "totalPrecedents": 13624,
+    "nodesCount": 239,
+    "edgesCount": 3280,
+    "systemsCount": 11
+  },
+  "topArticles": [
+    {
+      "article": "16",
+      "system": "نظام التنفيذ",
+      "frequency": 1402,
+      "precedentsCount": 1402,
+      "relatedArticles": [
+        "90",
+        "19",
+        "76",
+        "30",
+        "25"
+      ]
+    },
+    {
+      "article": "90",
+      "system": "نظام التنفيذ",
+      "frequency": 797,
+      "precedentsCount": 797,
+      "relatedArticles": [
+        "16",
+        "93",
+        "76",
+        "79",
+        "29"
+      ]
+    },
+    {
+      "article": "30",
+      "system": "نظام التنفيذ",
+      "frequency": 541,
+      "precedentsCount": 541,
+      "relatedArticles": [
+        "76",
+        "31",
+        "16",
+        "245",
+        "29"
+      ]
+    },
+    {
+      "article": "29",
+      "system": "نظام الإثبات",
+      "frequency": 474,
+      "precedentsCount": 474,
+      "relatedArticles": [
+        "42",
+        "2",
+        "16",
+        "90",
+        "30"
+      ]
+    },
+    {
+      "article": "76",
+      "system": "نظام المرافعات الشرعية",
+      "frequency": 428,
+      "precedentsCount": 428,
+      "relatedArticles": [
+        "19",
+        "16",
+        "31",
+        "30",
+        "90"
+      ]
+    },
+    {
+      "article": "58",
+      "system": "نظام التنفيذ",
+      "frequency": 267,
+      "precedentsCount": 267,
+      "relatedArticles": [
+        "16",
+        "9",
+        "29",
+        "90",
+        "31"
+      ]
+    },
+    {
+      "article": "78",
+      "system": "نظام التنفيذ",
+      "frequency": 213,
+      "precedentsCount": 213,
+      "relatedArticles": [
+        "58",
+        "215",
+        "90",
+        "16",
+        "6"
+      ]
+    },
+    {
+      "article": "164",
+      "system": "نظام القضاء",
+      "frequency": 205,
+      "precedentsCount": 205,
+      "relatedArticles": [
+        "28",
+        "51",
+        "120",
+        "107",
+        "137"
+      ]
+    },
+    {
+      "article": "31",
+      "system": "نظام التنفيذ",
+      "frequency": 175,
+      "precedentsCount": 175,
+      "relatedArticles": [
+        "76",
+        "30",
+        "29",
+        "58",
+        "90"
+      ]
+    },
+    {
+      "article": "17",
+      "system": "نظام التنفيذ",
+      "frequency": 132,
+      "precedentsCount": 132,
+      "relatedArticles": [
+        "15",
+        "13",
+        "16",
+        "2",
+        "14"
+      ]
+    },
+    {
+      "article": "70",
+      "system": "نظام المرافعات الشرعية",
+      "frequency": 127,
+      "precedentsCount": 127,
+      "relatedArticles": [
+        "108",
+        "80",
+        "8",
+        "69",
+        "71"
+      ]
+    },
+    {
+      "article": "200",
+      "system": "نظام التنفيذ",
+      "frequency": 126,
+      "precedentsCount": 126,
+      "relatedArticles": [
+        "225",
+        "86",
+        "79",
+        "244",
+        "58"
+      ]
+    },
+    {
+      "article": "3",
+      "system": "نظام الإثبات",
+      "frequency": 110,
+      "precedentsCount": 110,
+      "relatedArticles": [
+        "15",
+        "76",
+        "92",
+        "16",
+        "10"
+      ]
+    },
+    {
+      "article": "51",
+      "system": "نظام التنفيذ",
+      "frequency": 108,
+      "precedentsCount": 108,
+      "relatedArticles": [
+        "28",
+        "164",
+        "16",
+        "56",
+        "79"
+      ]
+    },
+    {
+      "article": "215",
+      "system": "نظام التنفيذ",
+      "frequency": 108,
+      "precedentsCount": 108,
+      "relatedArticles": [
+        "192",
+        "58",
+        "78",
+        "90",
+        "16"
+      ]
+    },
+    {
+      "article": "11",
+      "system": "نظام التنفيذ",
+      "frequency": 106,
+      "precedentsCount": 106,
+      "relatedArticles": [
+        "36",
+        "48",
+        "93",
+        "99",
+        "5"
+      ]
+    },
+    {
+      "article": "21",
+      "system": "نظام العمل",
+      "frequency": 96,
+      "precedentsCount": 96,
+      "relatedArticles": [
+        "117",
+        "34",
+        "67",
+        "152",
+        "15"
+      ]
+    },
+    {
+      "article": "26",
+      "system": "نظام التنفيذ",
+      "frequency": 93,
+      "precedentsCount": 93,
+      "relatedArticles": [
+        "30",
+        "28",
+        "27",
+        "15",
+        "66"
+      ]
+    },
+    {
+      "article": "66",
+      "system": "نظام الإثبات",
+      "frequency": 93,
+      "precedentsCount": 93,
+      "relatedArticles": [
+        "67",
+        "1",
+        "134",
+        "110",
+        "117"
+      ]
+    },
+    {
+      "article": "19",
+      "system": "نظام المرافعات الشرعية",
+      "frequency": 81,
+      "precedentsCount": 81,
+      "relatedArticles": [
+        "76",
+        "16",
+        "69",
+        "72",
+        "93"
+      ]
+    },
+    {
+      "article": "20",
+      "system": "نظام المرافعات الشرعية",
+      "frequency": 79,
+      "precedentsCount": 79,
+      "relatedArticles": [
+        "77",
+        "156",
+        "720",
+        "41",
+        "47"
+      ]
+    },
+    {
+      "article": "14",
+      "system": "نظام التنفيذ",
+      "frequency": 77,
+      "precedentsCount": 77,
+      "relatedArticles": [
+        "15",
+        "17",
+        "2",
+        "39",
+        "37"
+      ]
+    },
+    {
+      "article": "2",
+      "system": "نظام الإثبات",
+      "frequency": 75,
+      "precedentsCount": 75,
+      "relatedArticles": [
+        "42",
+        "29",
+        "15",
+        "17",
+        "14"
+      ]
+    },
+    {
+      "article": "10",
+      "system": "نظام الإثبات",
+      "frequency": 72,
+      "precedentsCount": 72,
+      "relatedArticles": [
+        "16",
+        "30",
+        "3",
+        "103",
+        "78"
+      ]
+    },
+    {
+      "article": "92",
+      "system": "نظام التنفيذ",
+      "frequency": 60,
+      "precedentsCount": 60,
+      "relatedArticles": [
+        "93",
+        "84",
+        "122",
+        "30",
+        "3"
+      ]
+    },
+    {
+      "article": "79",
+      "system": "نظام التنفيذ",
+      "frequency": 58,
+      "precedentsCount": 58,
+      "relatedArticles": [
+        "90",
+        "76",
+        "200",
+        "93",
+        "16"
+      ]
+    },
+    {
+      "article": "56",
+      "system": "نظام التنفيذ",
+      "frequency": 57,
+      "precedentsCount": 57,
+      "relatedArticles": [
+        "16",
+        "51",
+        "52",
+        "226",
+        "79"
+      ]
+    },
+    {
+      "article": "41",
+      "system": "نظام التنفيذ",
+      "frequency": 56,
+      "precedentsCount": 56,
+      "relatedArticles": [
+        "42",
+        "2",
+        "5",
+        "29",
+        "110"
+      ]
+    },
+    {
+      "article": "9",
+      "system": "نظام التنفيذ",
+      "frequency": 55,
+      "precedentsCount": 55,
+      "relatedArticles": [
+        "16",
+        "58",
+        "29",
+        "11",
+        "30"
+      ]
+    },
+    {
+      "article": "18",
+      "system": "نظام المرافعات الشرعية",
+      "frequency": 54,
+      "precedentsCount": 54,
+      "relatedArticles": [
+        "35",
+        "17",
+        "248",
+        "13",
+        "75"
+      ]
+    },
+    {
+      "article": "36",
+      "system": "نظام التنفيذ",
+      "frequency": 53,
+      "precedentsCount": 53,
+      "relatedArticles": [
+        "108",
+        "11",
+        "16",
+        "102",
+        "106"
+      ]
+    },
+    {
+      "article": "245",
+      "system": "نظام التنفيذ",
+      "frequency": 51,
+      "precedentsCount": 51,
+      "relatedArticles": [
+        "30",
+        "16",
+        "29",
+        "19",
+        "58"
+      ]
+    },
+    {
+      "article": "244",
+      "system": "نظام التنفيذ",
+      "frequency": 51,
+      "precedentsCount": 51,
+      "relatedArticles": [
+        "58",
+        "16",
+        "200",
+        "11",
+        "78"
+      ]
+    },
+    {
+      "article": "93",
+      "system": "نظام التنفيذ",
+      "frequency": 49,
+      "precedentsCount": 49,
+      "relatedArticles": [
+        "90",
+        "19",
+        "69",
+        "72",
+        "92"
+      ]
+    },
+    {
+      "article": "108",
+      "system": "نظام التنفيذ",
+      "frequency": 46,
+      "precedentsCount": 46,
+      "relatedArticles": [
+        "36",
+        "17",
+        "101",
+        "205",
+        "70"
+      ]
+    },
+    {
+      "article": "8",
+      "system": "نظام التنفيذ",
+      "frequency": 46,
+      "precedentsCount": 46,
+      "relatedArticles": [
+        "90",
+        "16",
+        "6",
+        "13",
+        "78"
+      ]
+    },
+    {
+      "article": "42",
+      "system": "نظام الإثبات",
+      "frequency": 45,
+      "precedentsCount": 45,
+      "relatedArticles": [
+        "2",
+        "29",
+        "41",
+        "247",
+        "16"
+      ]
+    },
+    {
+      "article": "110",
+      "system": "نظام التنفيذ",
+      "frequency": 45,
+      "precedentsCount": 45,
+      "relatedArticles": [
+        "90",
+        "122",
+        "16",
+        "41",
+        "2"
+      ]
+    },
+    {
+      "article": "152",
+      "system": "نظام القضاء",
+      "frequency": 43,
+      "precedentsCount": 43,
+      "relatedArticles": [
+        "21",
+        "15",
+        "153",
+        "181",
+        "16"
+      ]
+    },
+    {
+      "article": "59",
+      "system": "نظام التنفيذ",
+      "frequency": 42,
+      "precedentsCount": 42,
+      "relatedArticles": [
+        "30",
+        "8",
+        "58",
+        "90",
+        "21"
+      ]
+    },
+    {
+      "article": "69",
+      "system": "نظام التنفيذ",
+      "frequency": 42,
+      "precedentsCount": 42,
+      "relatedArticles": [
+        "19",
+        "72",
+        "93",
+        "7",
+        "76"
+      ]
+    },
+    {
+      "article": "15",
+      "system": "نظام التنفيذ",
+      "frequency": 41,
+      "precedentsCount": 41,
+      "relatedArticles": [
+        "13",
+        "16",
+        "17",
+        "2",
+        "14"
+      ]
+    },
+    {
+      "article": "77",
+      "system": "نظام التنفيذ",
+      "frequency": 40,
+      "precedentsCount": 40,
+      "relatedArticles": [
+        "20",
+        "90",
+        "16",
+        "66",
+        "78"
+      ]
+    },
+    {
+      "article": "1",
+      "system": "نظام التنفيذ",
+      "frequency": 40,
+      "precedentsCount": 40,
+      "relatedArticles": [
+        "58",
+        "66",
+        "67",
+        "134",
+        "110"
+      ]
+    },
+    {
+      "article": "6",
+      "system": "نظام الإثبات",
+      "frequency": 39,
+      "precedentsCount": 39,
+      "relatedArticles": [
+        "90",
+        "16",
+        "13",
+        "8",
+        "78"
+      ]
+    },
+    {
+      "article": "4",
+      "system": "نظام التنفيذ",
+      "frequency": 39,
+      "precedentsCount": 39,
+      "relatedArticles": [
+        "15",
+        "17",
+        "2",
+        "14",
+        "39"
+      ]
+    },
+    {
+      "article": "75",
+      "system": "نظام التنفيذ",
+      "frequency": 39,
+      "precedentsCount": 39,
+      "relatedArticles": [
+        "76",
+        "18",
+        "13",
+        "26",
+        "36"
+      ]
+    },
+    {
+      "article": "22",
+      "system": "نظام التنفيذ",
+      "frequency": 38,
+      "precedentsCount": 38,
+      "relatedArticles": [
+        "7",
+        "16",
+        "30",
+        "32",
+        "41"
+      ]
+    },
+    {
+      "article": "86",
+      "system": "نظام التنفيذ",
+      "frequency": 36,
+      "precedentsCount": 36,
+      "relatedArticles": [
+        "200",
+        "82",
+        "208",
+        "16",
+        "225"
+      ]
+    },
+    {
+      "article": "122",
+      "system": "نظام التنفيذ",
+      "frequency": 36,
+      "precedentsCount": 36,
+      "relatedArticles": [
+        "210",
+        "92",
+        "84",
+        "90",
+        "110"
+      ]
+    }
+  ],
+  "topEdges": [
+    {
+      "source": "90",
+      "target": "16",
+      "weight": 500,
+      "precedentsCount": 500
+    },
+    {
+      "source": "30",
+      "target": "16",
+      "weight": 233,
+      "precedentsCount": 233
+    },
+    {
+      "source": "30",
+      "target": "29",
+      "weight": 144,
+      "precedentsCount": 144
+    },
+    {
+      "source": "29",
+      "target": "16",
+      "weight": 138,
+      "precedentsCount": 138
+    },
+    {
+      "source": "76",
+      "target": "16",
+      "weight": 120,
+      "precedentsCount": 120
+    },
+    {
+      "source": "78",
+      "target": "215",
+      "weight": 105,
+      "precedentsCount": 105
+    },
+    {
+      "source": "76",
+      "target": "31",
+      "weight": 94,
+      "precedentsCount": 94
+    },
+    {
+      "source": "16",
+      "target": "58",
+      "weight": 83,
+      "precedentsCount": 83
+    },
+    {
+      "source": "90",
+      "target": "30",
+      "weight": 79,
+      "precedentsCount": 79
+    },
+    {
+      "source": "16",
+      "target": "31",
+      "weight": 69,
+      "precedentsCount": 69
+    },
+    {
+      "source": "16",
+      "target": "78",
+      "weight": 63,
+      "precedentsCount": 63
+    },
+    {
+      "source": "30",
+      "target": "58",
+      "weight": 58,
+      "precedentsCount": 58
+    },
+    {
+      "source": "29",
+      "target": "90",
+      "weight": 57,
+      "precedentsCount": 57
+    },
+    {
+      "source": "90",
+      "target": "76",
+      "weight": 50,
+      "precedentsCount": 50
+    },
+    {
+      "source": "16",
+      "target": "11",
+      "weight": 50,
+      "precedentsCount": 50
+    },
+    {
+      "source": "51",
+      "target": "56",
+      "weight": 48,
+      "precedentsCount": 48
+    },
+    {
+      "source": "16",
+      "target": "10",
+      "weight": 48,
+      "precedentsCount": 48
+    },
+    {
+      "source": "10",
+      "target": "30",
+      "weight": 46,
+      "precedentsCount": 46
+    },
+    {
+      "source": "16",
+      "target": "164",
+      "weight": 45,
+      "precedentsCount": 45
+    },
+    {
+      "source": "58",
+      "target": "90",
+      "weight": 43,
+      "precedentsCount": 43
+    },
+    {
+      "source": "16",
+      "target": "51",
+      "weight": 43,
+      "precedentsCount": 43
+    },
+    {
+      "source": "8",
+      "target": "58",
+      "weight": 37,
+      "precedentsCount": 37
+    },
+    {
+      "source": "29",
+      "target": "164",
+      "weight": 35,
+      "precedentsCount": 35
+    },
+    {
+      "source": "90",
+      "target": "78",
+      "weight": 33,
+      "precedentsCount": 33
+    },
+    {
+      "source": "164",
+      "target": "30",
+      "weight": 33,
+      "precedentsCount": 33
+    },
+    {
+      "source": "30",
+      "target": "78",
+      "weight": 32,
+      "precedentsCount": 32
+    },
+    {
+      "source": "16",
+      "target": "17",
+      "weight": 31,
+      "precedentsCount": 31
+    },
+    {
+      "source": "29",
+      "target": "58",
+      "weight": 30,
+      "precedentsCount": 30
+    },
+    {
+      "source": "16",
+      "target": "56",
+      "weight": 30,
+      "precedentsCount": 30
+    },
+    {
+      "source": "29",
+      "target": "21",
+      "weight": 29,
+      "precedentsCount": 29
+    }
+  ],
+  "systems": [
+    {
+      "name": "نظام التنفيذ",
+      "articlesCount": 222,
+      "precedentsCount": 6507,
+      "topArticles": [
+        "90",
+        "16",
+        "165",
+        "59",
+        "93",
+        "76",
+        "31",
+        "30",
+        "19",
+        "69"
+      ]
+    },
+    {
+      "name": "نظام الإثبات",
+      "articlesCount": 123,
+      "precedentsCount": 2473,
+      "topArticles": [
+        "29",
+        "76",
+        "42",
+        "2",
+        "6",
+        "21",
+        "3",
+        "15",
+        "16",
+        "9"
+      ]
+    },
+    {
+      "name": "نظام المرافعات الشرعية",
+      "articlesCount": 99,
+      "precedentsCount": 1172,
+      "topArticles": [
+        "76",
+        "19",
+        "16",
+        "20",
+        "31",
+        "67",
+        "200",
+        "70",
+        "83",
+        "90"
+      ]
+    },
+    {
+      "name": "نظام القضاء",
+      "articlesCount": 53,
+      "precedentsCount": 655,
+      "topArticles": [
+        "164",
+        "25",
+        "16",
+        "29",
+        "90",
+        "152",
+        "21",
+        "15",
+        "6",
+        "12"
+      ]
+    },
+    {
+      "name": "نظام الشركات",
+      "articlesCount": 40,
+      "precedentsCount": 230,
+      "topArticles": [
+        "25",
+        "16",
+        "152",
+        "30",
+        "11",
+        "79",
+        "21",
+        "151",
+        "153",
+        "35"
+      ]
+    },
+    {
+      "name": "نظام البينات",
+      "articlesCount": 19,
+      "precedentsCount": 178,
+      "topArticles": [
+        "16",
+        "90",
+        "42",
+        "85",
+        "3",
+        "41",
+        "19",
+        "33",
+        "17",
+        "20"
+      ]
+    },
+    {
+      "name": "نظام التجارة",
+      "articlesCount": 19,
+      "precedentsCount": 110,
+      "topArticles": [
+        "5",
+        "11",
+        "30",
+        "7",
+        "22",
+        "24",
+        "76",
+        "16",
+        "48",
+        "42"
+      ]
+    },
+    {
+      "name": "نظام المعاملات المدنية",
+      "articlesCount": 12,
+      "precedentsCount": 61,
+      "topArticles": [
+        "16",
+        "13",
+        "136",
+        "391",
+        "397",
+        "15",
+        "17",
+        "2",
+        "30",
+        "125"
+      ]
+    },
+    {
+      "name": "نظام العمل",
+      "articlesCount": 60,
+      "precedentsCount": 41,
+      "topArticles": [
+        "117",
+        "34",
+        "21",
+        "67",
+        "70",
+        "80",
+        "8",
+        "81",
+        "62",
+        "172"
+      ]
+    },
+    {
+      "name": "نظام الإجراءات الجزائية",
+      "articlesCount": 3,
+      "precedentsCount": 15,
+      "topArticles": [
+        "30",
+        "42",
+        "3"
+      ]
+    },
+    {
+      "name": "نظام الأحوال الشخصية",
+      "articlesCount": 0,
+      "precedentsCount": 7,
+      "topArticles": []
+    }
+  ],
+  "mappingSuggestions": [
+    {
+      "article": "16",
+      "system": "نظام التنفيذ",
+      "frequency": 1402,
+      "relatedArticles": [
+        "90",
+        "30",
+        "29",
+        "76",
+        "58",
+        "31",
+        "78",
+        "11",
+        "10",
+        "164",
+        "51",
+        "17",
+        "56"
+      ],
+      "suggestedKeywords": [
+        "تنفيذ",
+        "حجز",
+        "مزاد",
+        "سند تنفيذي"
+      ]
+    },
+    {
+      "article": "90",
+      "system": "نظام التنفيذ",
+      "frequency": 797,
+      "relatedArticles": [
+        "16",
+        "30",
+        "29",
+        "76",
+        "58",
+        "78"
+      ],
+      "suggestedKeywords": [
+        "تنفيذ",
+        "حجز",
+        "مزاد",
+        "سند تنفيذي"
+      ]
+    },
+    {
+      "article": "30",
+      "system": "نظام التنفيذ",
+      "frequency": 541,
+      "relatedArticles": [
+        "16",
+        "29",
+        "90",
+        "58",
+        "10",
+        "164",
+        "78"
+      ],
+      "suggestedKeywords": [
+        "تنفيذ",
+        "حجز",
+        "مزاد",
+        "سند تنفيذي"
+      ]
+    },
+    {
+      "article": "29",
+      "system": "نظام الإثبات",
+      "frequency": 474,
+      "relatedArticles": [
+        "30",
+        "16",
+        "90",
+        "164",
+        "58",
+        "21"
+      ],
+      "suggestedKeywords": [
+        "إثبات",
+        "بينة",
+        "إقرار",
+        "يمين"
+      ]
+    },
+    {
+      "article": "76",
+      "system": "نظام المرافعات الشرعية",
+      "frequency": 428,
+      "relatedArticles": [
+        "16",
+        "31",
+        "90"
+      ],
+      "suggestedKeywords": [
+        "دعوى",
+        "خصومة",
+        "مرافعة",
+        "استئناف"
+      ]
+    },
+    {
+      "article": "58",
+      "system": "نظام التنفيذ",
+      "frequency": 267,
+      "relatedArticles": [
+        "16",
+        "30",
+        "90",
+        "8",
+        "29"
+      ],
+      "suggestedKeywords": [
+        "تنفيذ",
+        "حجز",
+        "مزاد",
+        "سند تنفيذي"
+      ]
+    },
+    {
+      "article": "78",
+      "system": "نظام التنفيذ",
+      "frequency": 213,
+      "relatedArticles": [
+        "215",
+        "16",
+        "90",
+        "30"
+      ],
+      "suggestedKeywords": [
+        "تنفيذ",
+        "حجز",
+        "مزاد",
+        "سند تنفيذي"
+      ]
+    },
+    {
+      "article": "164",
+      "system": "نظام القضاء",
+      "frequency": 205,
+      "relatedArticles": [
+        "16",
+        "29",
+        "30"
+      ],
+      "suggestedKeywords": [
+        "محكمة",
+        "قاضي",
+        "قضاء",
+        "درجات التقاضي"
+      ]
+    },
+    {
+      "article": "31",
+      "system": "نظام التنفيذ",
+      "frequency": 175,
+      "relatedArticles": [
+        "76",
+        "16"
+      ],
+      "suggestedKeywords": [
+        "تنفيذ",
+        "حجز",
+        "مزاد",
+        "سند تنفيذي"
+      ]
+    },
+    {
+      "article": "17",
+      "system": "نظام التنفيذ",
+      "frequency": 132,
+      "relatedArticles": [
+        "16"
+      ],
+      "suggestedKeywords": [
+        "تنفيذ",
+        "حجز",
+        "مزاد",
+        "سند تنفيذي"
+      ]
+    },
+    {
+      "article": "70",
+      "system": "نظام المرافعات الشرعية",
+      "frequency": 127,
+      "relatedArticles": [],
+      "suggestedKeywords": [
+        "دعوى",
+        "خصومة",
+        "مرافعة",
+        "استئناف"
+      ]
+    },
+    {
+      "article": "200",
+      "system": "نظام التنفيذ",
+      "frequency": 126,
+      "relatedArticles": [],
+      "suggestedKeywords": [
+        "تنفيذ",
+        "حجز",
+        "مزاد",
+        "سند تنفيذي"
+      ]
+    },
+    {
+      "article": "3",
+      "system": "نظام الإثبات",
+      "frequency": 110,
+      "relatedArticles": [],
+      "suggestedKeywords": [
+        "إثبات",
+        "بينة",
+        "إقرار",
+        "يمين"
+      ]
+    },
+    {
+      "article": "51",
+      "system": "نظام التنفيذ",
+      "frequency": 108,
+      "relatedArticles": [
+        "56",
+        "16"
+      ],
+      "suggestedKeywords": [
+        "تنفيذ",
+        "حجز",
+        "مزاد",
+        "سند تنفيذي"
+      ]
+    },
+    {
+      "article": "215",
+      "system": "نظام التنفيذ",
+      "frequency": 108,
+      "relatedArticles": [
+        "78"
+      ],
+      "suggestedKeywords": [
+        "تنفيذ",
+        "حجز",
+        "مزاد",
+        "سند تنفيذي"
+      ]
+    },
+    {
+      "article": "11",
+      "system": "نظام التنفيذ",
+      "frequency": 106,
+      "relatedArticles": [
+        "16"
+      ],
+      "suggestedKeywords": [
+        "تنفيذ",
+        "حجز",
+        "مزاد",
+        "سند تنفيذي"
+      ]
+    },
+    {
+      "article": "21",
+      "system": "نظام العمل",
+      "frequency": 96,
+      "relatedArticles": [
+        "29"
+      ],
+      "suggestedKeywords": [
+        "عامل",
+        "موظف",
+        "عمل",
+        "عقد عمل"
+      ]
+    },
+    {
+      "article": "26",
+      "system": "نظام التنفيذ",
+      "frequency": 93,
+      "relatedArticles": [],
+      "suggestedKeywords": [
+        "تنفيذ",
+        "حجز",
+        "مزاد",
+        "سند تنفيذي"
+      ]
+    },
+    {
+      "article": "66",
+      "system": "نظام الإثبات",
+      "frequency": 93,
+      "relatedArticles": [],
+      "suggestedKeywords": [
+        "إثبات",
+        "بينة",
+        "إقرار",
+        "يمين"
+      ]
+    },
+    {
+      "article": "19",
+      "system": "نظام المرافعات الشرعية",
+      "frequency": 81,
+      "relatedArticles": [],
+      "suggestedKeywords": [
+        "دعوى",
+        "خصومة",
+        "مرافعة",
+        "استئناف"
+      ]
+    },
+    {
+      "article": "20",
+      "system": "نظام المرافعات الشرعية",
+      "frequency": 79,
+      "relatedArticles": [],
+      "suggestedKeywords": [
+        "دعوى",
+        "خصومة",
+        "مرافعة",
+        "استئناف"
+      ]
+    },
+    {
+      "article": "14",
+      "system": "نظام التنفيذ",
+      "frequency": 77,
+      "relatedArticles": [],
+      "suggestedKeywords": [
+        "تنفيذ",
+        "حجز",
+        "مزاد",
+        "سند تنفيذي"
+      ]
+    },
+    {
+      "article": "2",
+      "system": "نظام الإثبات",
+      "frequency": 75,
+      "relatedArticles": [],
+      "suggestedKeywords": [
+        "إثبات",
+        "بينة",
+        "إقرار",
+        "يمين"
+      ]
+    },
+    {
+      "article": "10",
+      "system": "نظام الإثبات",
+      "frequency": 72,
+      "relatedArticles": [
+        "16",
+        "30"
+      ],
+      "suggestedKeywords": [
+        "إثبات",
+        "بينة",
+        "إقرار",
+        "يمين"
+      ]
+    },
+    {
+      "article": "92",
+      "system": "نظام التنفيذ",
+      "frequency": 60,
+      "relatedArticles": [],
+      "suggestedKeywords": [
+        "تنفيذ",
+        "حجز",
+        "مزاد",
+        "سند تنفيذي"
+      ]
+    },
+    {
+      "article": "79",
+      "system": "نظام التنفيذ",
+      "frequency": 58,
+      "relatedArticles": [],
+      "suggestedKeywords": [
+        "تنفيذ",
+        "حجز",
+        "مزاد",
+        "سند تنفيذي"
+      ]
+    },
+    {
+      "article": "56",
+      "system": "نظام التنفيذ",
+      "frequency": 57,
+      "relatedArticles": [
+        "51",
+        "16"
+      ],
+      "suggestedKeywords": [
+        "تنفيذ",
+        "حجز",
+        "مزاد",
+        "سند تنفيذي"
+      ]
+    },
+    {
+      "article": "41",
+      "system": "نظام التنفيذ",
+      "frequency": 56,
+      "relatedArticles": [],
+      "suggestedKeywords": [
+        "تنفيذ",
+        "حجز",
+        "مزاد",
+        "سند تنفيذي"
+      ]
+    },
+    {
+      "article": "9",
+      "system": "نظام التنفيذ",
+      "frequency": 55,
+      "relatedArticles": [],
+      "suggestedKeywords": [
+        "تنفيذ",
+        "حجز",
+        "مزاد",
+        "سند تنفيذي"
+      ]
+    },
+    {
+      "article": "18",
+      "system": "نظام المرافعات الشرعية",
+      "frequency": 54,
+      "relatedArticles": [],
+      "suggestedKeywords": [
+        "دعوى",
+        "خصومة",
+        "مرافعة",
+        "استئناف"
+      ]
+    }
+  ]
+}
