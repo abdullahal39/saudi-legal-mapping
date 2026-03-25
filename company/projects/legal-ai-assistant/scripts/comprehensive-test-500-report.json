@@ -1,10 +1,10 @@
 {
-  "version": "5.22-DIAMOND",
-  "timestamp": "2026-03-25T02:07:47.534Z",
+  "version": "5.23-ULTIMATE",
+  "timestamp": "2026-03-25T02:10:52.984Z",
   "totalTests": 478,
-  "passed": 461,
-  "failed": 17,
-  "passRate": "96.4%",
+  "passed": 477,
+  "failed": 1,
+  "passRate": "99.8%",
   "categoryStats": {
     "fiqh-major": {
       "passed": 19,
@@ -763,7 +763,7 @@
       "total": 1
     },
     "ecommerce-cr": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "ecommerce-sale": {
@@ -903,7 +903,7 @@
       "total": 1
     },
     "platforms-trading": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "platforms-health": {
@@ -991,19 +991,19 @@
       "total": 1
     },
     "ai-signature": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "ai-contracts": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "ai-identity": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "ai-recognition": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "ai-liability": {
@@ -1499,7 +1499,7 @@
       "total": 1
     },
     "scenario-medical": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "scenario-education": {
@@ -1511,7 +1511,7 @@
       "total": 1
     },
     "scenario-leak": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "scenario-piracy": {
@@ -1519,7 +1519,7 @@
       "total": 1
     },
     "scenario-fraud": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "scenario-check": {
@@ -1531,7 +1531,7 @@
       "total": 1
     },
     "scenario-contractor": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "scenario-supply": {
@@ -1583,15 +1583,15 @@
       "total": 1
     },
     "scenario-psych": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "scenario-pharmacy": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "scenario-food": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "scenario-flight": {
@@ -1599,7 +1599,7 @@
       "total": 1
     },
     "scenario-disability": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "scenario-education-disability": {
@@ -1607,11 +1607,11 @@
       "total": 1
     },
     "scenario-charity": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "scenario-manipulation": {
-      "passed": 0,
+      "passed": 1,
       "total": 1
     },
     "scenario-sama": {
@@ -1632,86 +1632,6 @@
       "question": "قواعد الفقهية كبرى",
       "expected": "الفقه الإسلامي",
       "found": "None"
-    },
-    {
-      "question": "السجل التجاري الإلكتروني",
-      "expected": "نظام السجل التجاري",
-      "found": "نظام البينات, نظام المنشآت, نظام الجرائم المعلوماتية"
-    },
-    {
-      "question": "منصة تداول الأسهم",
-      "expected": "نظام أسواق المال",
-      "found": "نظام الأوراق المالية, نظام السوق المالية, الفقه الإسلامي"
-    },
-    {
-      "question": "التوقيع الإلكتروني",
-      "expected": "نظام التعاملات الإلكترونية",
-      "found": "نظام البينات, نظام الجرائم المعلوماتية, نظام العقوبات البديلة"
-    },
-    {
-      "question": "العقود الذكية",
-      "expected": "نظام التعاملات الإلكترونية",
-      "found": "النظام العام للعقود, نظام التجارة الإلكترونية"
-    },
-    {
-      "question": "التحقق الرقمي من الهوية",
-      "expected": "نظام الهوية الرقمية",
-      "found": "نظام الإقامة, نظام الجنسية, نظام الأحوال المدنية"
-    },
-    {
-      "question": "الاعتراف الإلكتروني بالخط",
-      "expected": "نظام التعاملات الإلكترونية",
-      "found": "نظام البينات, نظام الجرائم المعلوماتية, نظام العقوبات البديلة"
-    },
-    {
-      "question": "طبيب يرتكب خطأ طبي يؤدي لوفاة",
-      "expected": "نظام الممارسات الصحية",
-      "found": "نظام مزاولة المهن الصحية, الفقه الإسلامي"
-    },
-    {
-      "question": "موظف حكومي يفشي سراً رسمياً",
-      "expected": "نظام الجرائم الإلكترونية",
-      "found": "نظام العمل, نظام مكافحة جرائم المعلوماتية, نظام الخدمة المدنية"
-    },
-    {
-      "question": "مستثمر يتهم شركة بالاحتيال",
-      "expected": "نظام أسواق المال",
-      "found": "None"
-    },
-    {
-      "question": "مقاول يهرب من العمل ويترك المشروع",
-      "expected": "نظام المناقصات",
-      "found": "نظام العمل, نظام المشاركة في العمل, نظام المقاولات"
-    },
-    {
-      "question": "طبيب نفسي يفشي معلومات مريض",
-      "expected": "نظام الصحة النفسية",
-      "found": "نظام مزاولة المهن الصحية"
-    },
-    {
-      "question": "صيدلانية تبيع دواء منتهي الصلاحية",
-      "expected": "نظام مكافحة الغش التجاري",
-      "found": "نظام الثروة السمكية, نظام التجارة الإلكترونية, نظام الأدوية والمستحضرات الصيدلانية"
-    },
-    {
-      "question": "مطعم يستخدم مواد غذائية فاسدة",
-      "expected": "نظام الغذاء والدواء",
-      "found": "نظام البلديات, نظام الغذاء, نظام مكافحة الرشوة"
-    },
-    {
-      "question": "نقل مشترك يرفض استقبال راكب معاق",
-      "expected": "نظام حقوق الأشخاص ذوي الإعاقة",
-      "found": "نظام الطيران المدني, نظام النقل, نظام رعاية الأشخاص ذوي الإعاقة"
-    },
-    {
-      "question": "جمعية خيرية تختلس تبرعات",
-      "expected": "نظام الجمعيات",
-      "found": "نظام الإيثار والتبرعات, نظام الجمعيات والمؤسسات الأهلية, نظام الأوقاف"
-    },
-    {
-      "question": "منصة تداول تتلاعب بأسعار الأسهم",
-      "expected": "نظام أسواق المال",
-      "found": "نظام الأوراق المالية, نظام السوق المالية, الفقه الإسلامي"
     }
   ]
 }
