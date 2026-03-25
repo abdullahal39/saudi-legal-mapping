@@ -1,0 +1,458 @@
+{
+  "version": "3.0-COMPLETE-50-SYSTEMS",
+  "generatedAt": "2026-03-25T03:54:41.170Z",
+  "stats": {
+    "totalSystems": 50,
+    "totalQA": 272,
+    "byPriority": {
+      "CRITICAL": {
+        "count": 3,
+        "qa": 50
+      },
+      "HIGH": {
+        "count": 12,
+        "qa": 88
+      },
+      "MEDIUM": {
+        "count": 32,
+        "qa": 125
+      },
+      "LOW": {
+        "count": 3,
+        "qa": 9
+      }
+    },
+    "byCategory": {
+      "Labor": 2,
+      "Civil": 1,
+      "Personal": 1,
+      "Traffic": 1,
+      "Commercial": 4,
+      "Administrative": 3,
+      "Consumer": 1,
+      "Tax": 1,
+      "Technology": 4,
+      "Financial": 3,
+      "Real Estate": 1,
+      "Intellectual": 1,
+      "Environment": 1,
+      "Health": 1,
+      "Education": 1,
+      "Government": 4,
+      "Tourism": 1,
+      "Judicial": 4,
+      "Trade": 1,
+      "Investment": 1,
+      "Business": 1,
+      "Industry": 1,
+      "Energy": 1,
+      "Utilities": 2,
+      "Transport": 2,
+      "Criminal": 4,
+      "Social": 1,
+      "Islamic": 1
+    }
+  },
+  "systems": [
+    {
+      "num": 1,
+      "name": "نظام التأمينات الاجتماعية",
+      "file": "insurance-qa-database.json",
+      "count": 20,
+      "priority": "CRITICAL",
+      "category": "Labor"
+    },
+    {
+      "num": 2,
+      "name": "نظام العمل",
+      "file": "labor-qa-database.json",
+      "count": 15,
+      "priority": "CRITICAL",
+      "category": "Labor"
+    },
+    {
+      "num": 3,
+      "name": "نظام الإيجار",
+      "file": "lease-qa-database.json",
+      "count": 15,
+      "priority": "CRITICAL",
+      "category": "Civil"
+    },
+    {
+      "num": 4,
+      "name": "نظام الأحوال الشخصية",
+      "file": "personal-status-qa-database.json",
+      "count": 26,
+      "priority": "HIGH",
+      "category": "Personal"
+    },
+    {
+      "num": 5,
+      "name": "نظام المرور",
+      "file": "traffic-qa-database.json",
+      "count": 10,
+      "priority": "HIGH",
+      "category": "Traffic"
+    },
+    {
+      "num": 6,
+      "name": "نظام الشركات",
+      "file": "companies-qa-database.json",
+      "count": 10,
+      "priority": "HIGH",
+      "category": "Commercial"
+    },
+    {
+      "num": 7,
+      "name": "نظام الإقامة",
+      "file": "residency-qa-database.json",
+      "count": 8,
+      "priority": "MEDIUM",
+      "category": "Administrative"
+    },
+    {
+      "num": 8,
+      "name": "نظام الجنسية",
+      "file": "nationality-qa-database.json",
+      "count": 4,
+      "priority": "MEDIUM",
+      "category": "Administrative"
+    },
+    {
+      "num": 9,
+      "name": "نظام الأحوال المدنية",
+      "file": "civil-status-qa-database.json",
+      "count": 5,
+      "priority": "MEDIUM",
+      "category": "Administrative"
+    },
+    {
+      "num": 10,
+      "name": "نظام حماية المستهلك",
+      "file": "consumer-qa-database.json",
+      "count": 5,
+      "priority": "MEDIUM",
+      "category": "Consumer"
+    },
+    {
+      "num": 11,
+      "name": "نظام الزكاة والضريبة",
+      "file": "tax-qa-database.json",
+      "count": 8,
+      "priority": "HIGH",
+      "category": "Tax"
+    },
+    {
+      "num": 12,
+      "name": "نظام حماية البيانات الشخصية",
+      "file": "data-protection-qa-database.json",
+      "count": 6,
+      "priority": "HIGH",
+      "category": "Technology"
+    },
+    {
+      "num": 13,
+      "name": "نظام مكافحة الجرائم المعلوماتية",
+      "file": "cybercrime-qa-database.json",
+      "count": 5,
+      "priority": "HIGH",
+      "category": "Technology"
+    },
+    {
+      "num": 14,
+      "name": "نظام الأوراق التجارية",
+      "file": "commercial-papers-qa-database.json",
+      "count": 5,
+      "priority": "MEDIUM",
+      "category": "Commercial"
+    },
+    {
+      "num": 15,
+      "name": "نظام مراقبة البنوك",
+      "file": "banking-qa-database.json",
+      "count": 5,
+      "priority": "MEDIUM",
+      "category": "Financial"
+    },
+    {
+      "num": 16,
+      "name": "نظام الملكية العقارية",
+      "file": "real-estate-qa-database.json",
+      "count": 5,
+      "priority": "MEDIUM",
+      "category": "Real Estate"
+    },
+    {
+      "num": 17,
+      "name": "نظام الإفلاس",
+      "file": "bankruptcy-qa-database.json",
+      "count": 4,
+      "priority": "MEDIUM",
+      "category": "Commercial"
+    },
+    {
+      "num": 18,
+      "name": "نظام المنافسة",
+      "file": "competition-qa-database.json",
+      "count": 4,
+      "priority": "MEDIUM",
+      "category": "Commercial"
+    },
+    {
+      "num": 19,
+      "name": "نظام حماية الملكية الفكرية",
+      "file": "ip-qa-database.json",
+      "count": 4,
+      "priority": "MEDIUM",
+      "category": "Intellectual"
+    },
+    {
+      "num": 20,
+      "name": "نظام البيئة",
+      "file": "environment-qa-database.json",
+      "count": 3,
+      "priority": "LOW",
+      "category": "Environment"
+    },
+    {
+      "num": 21,
+      "name": "نظام الصحة",
+      "file": "health-qa-database.json",
+      "count": 4,
+      "priority": "MEDIUM",
+      "category": "Health"
+    },
+    {
+      "num": 22,
+      "name": "نظام التعليم",
+      "file": "education-qa-database.json",
+      "count": 3,
+      "priority": "MEDIUM",
+      "category": "Education"
+    },
+    {
+      "num": 23,
+      "name": "نظام التجارة الإلكترونية",
+      "file": "ecommerce-qa-database.json",
+      "count": 4,
+      "priority": "HIGH",
+      "category": "Technology"
+    },
+    {
+      "num": 24,
+      "name": "نظام مكافحة غسل الأموال",
+      "file": "aml-qa-database.json",
+      "count": 3,
+      "priority": "HIGH",
+      "category": "Financial"
+    },
+    {
+      "num": 25,
+      "name": "نظام المناقصات والمزايدات",
+      "file": "tenders-qa-database.json",
+      "count": 3,
+      "priority": "MEDIUM",
+      "category": "Government"
+    },
+    {
+      "num": 26,
+      "name": "نظام الاتصالات",
+      "file": "telecom-qa-database.json",
+      "count": 4,
+      "priority": "MEDIUM",
+      "category": "Technology"
+    },
+    {
+      "num": 27,
+      "name": "نظام السياحة",
+      "file": "tourism-qa-database.json",
+      "count": 3,
+      "priority": "LOW",
+      "category": "Tourism"
+    },
+    {
+      "num": 28,
+      "name": "الأنظمة البلدية",
+      "file": "municipal-qa-database.json",
+      "count": 3,
+      "priority": "MEDIUM",
+      "category": "Government"
+    },
+    {
+      "num": 29,
+      "name": "نظام التوثيق",
+      "file": "notary-qa-database.json",
+      "count": 3,
+      "priority": "MEDIUM",
+      "category": "Judicial"
+    },
+    {
+      "num": 30,
+      "name": "نظام رسوم التنفيذ",
+      "file": "execution-qa-database.json",
+      "count": 3,
+      "priority": "LOW",
+      "category": "Judicial"
+    },
+    {
+      "num": 31,
+      "name": "نظام التأمين",
+      "file": "insurance_law-qa-database.json",
+      "count": 5,
+      "priority": "MEDIUM",
+      "category": "Financial"
+    },
+    {
+      "num": 32,
+      "name": "نظام الجمارك",
+      "file": "customs-qa-database.json",
+      "count": 5,
+      "priority": "MEDIUM",
+      "category": "Trade"
+    },
+    {
+      "num": 33,
+      "name": "نظام الاستثمار الأجنبي",
+      "file": "investment-qa-database.json",
+      "count": 5,
+      "priority": "HIGH",
+      "category": "Investment"
+    },
+    {
+      "num": 34,
+      "name": "نظام الشراكة بين القطاعين العام والخاص",
+      "file": "ppp-qa-database.json",
+      "count": 3,
+      "priority": "MEDIUM",
+      "category": "Government"
+    },
+    {
+      "num": 35,
+      "name": "نظام المنشآت الصغيرة والمتوسطة",
+      "file": "sme-qa-database.json",
+      "count": 4,
+      "priority": "MEDIUM",
+      "category": "Business"
+    },
+    {
+      "num": 36,
+      "name": "نظام التعدين",
+      "file": "mining-qa-database.json",
+      "count": 4,
+      "priority": "MEDIUM",
+      "category": "Industry"
+    },
+    {
+      "num": 37,
+      "name": "نظام الطاقة المتجددة",
+      "file": "renewable-qa-database.json",
+      "count": 3,
+      "priority": "MEDIUM",
+      "category": "Energy"
+    },
+    {
+      "num": 38,
+      "name": "نظام المياه",
+      "file": "water-qa-database.json",
+      "count": 3,
+      "priority": "MEDIUM",
+      "category": "Utilities"
+    },
+    {
+      "num": 39,
+      "name": "نظام الكهرباء",
+      "file": "electricity-qa-database.json",
+      "count": 3,
+      "priority": "MEDIUM",
+      "category": "Utilities"
+    },
+    {
+      "num": 40,
+      "name": "نظام النقل",
+      "file": "transport-qa-database.json",
+      "count": 3,
+      "priority": "MEDIUM",
+      "category": "Transport"
+    },
+    {
+      "num": 41,
+      "name": "نظام الطيران المدني",
+      "file": "aviation-qa-database.json",
+      "count": 3,
+      "priority": "MEDIUM",
+      "category": "Transport"
+    },
+    {
+      "num": 42,
+      "name": "نظام مكافحة جرائم الاتجار بالأشخاص",
+      "file": "trafficking-qa-database.json",
+      "count": 3,
+      "priority": "HIGH",
+      "category": "Criminal"
+    },
+    {
+      "num": 43,
+      "name": "نظام مكافحة المخدرات",
+      "file": "drugs-qa-database.json",
+      "count": 4,
+      "priority": "HIGH",
+      "category": "Criminal"
+    },
+    {
+      "num": 44,
+      "name": "نظام الخدمة المدنية",
+      "file": "civil_service-qa-database.json",
+      "count": 3,
+      "priority": "MEDIUM",
+      "category": "Government"
+    },
+    {
+      "num": 45,
+      "name": "نظام الإثبات",
+      "file": "evidence-qa-database.json",
+      "count": 3,
+      "priority": "MEDIUM",
+      "category": "Judicial"
+    },
+    {
+      "num": 46,
+      "name": "نظام الإجراءات الجزائية",
+      "file": "criminal_procedure-qa-database.json",
+      "count": 4,
+      "priority": "HIGH",
+      "category": "Criminal"
+    },
+    {
+      "num": 47,
+      "name": "نظام الجمعيات الأهلية",
+      "file": "ngos-qa-database.json",
+      "count": 4,
+      "priority": "MEDIUM",
+      "category": "Social"
+    },
+    {
+      "num": 48,
+      "name": "نظام الوقف",
+      "file": "waqf-qa-database.json",
+      "count": 3,
+      "priority": "MEDIUM",
+      "category": "Islamic"
+    },
+    {
+      "num": 49,
+      "name": "نظام الحبس والتوقيف",
+      "file": "prisons-qa-database.json",
+      "count": 3,
+      "priority": "MEDIUM",
+      "category": "Criminal"
+    },
+    {
+      "num": 50,
+      "name": "نظام التحكيم التجاري",
+      "file": "arbitration-qa-database.json",
+      "count": 4,
+      "priority": "MEDIUM",
+      "category": "Judicial"
+    }
+  ]
+}
